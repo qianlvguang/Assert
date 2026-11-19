@@ -1,0 +1,3832 @@
+{
+  "schema": "datawheel_sch96_ip_supplement_v1",
+  "generated_at": "2026-11-19T10:08:37.790482+00:00",
+  "total_entities": 75,
+  "resolved_images": 71,
+  "entities": [
+    {
+      "entity_id": "ip_oster",
+      "category": "needs_manual_ref",
+      "v2_domain": "brand",
+      "name_en": "Oster",
+      "name_zh": "奥斯特 Oster（小家电）",
+      "desc_zh": "美国小家电与搅拌机品牌 Oster 的官方文字标识，常见于厨房电器面板、包装盒与产品铭牌。",
+      "template_ids": [
+        "158_IP_OSTER"
+      ],
+      "local_path": "",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "needs_manual_ref",
+      "source_url": "",
+      "fetch_ok": false,
+      "error": "manual_ref_required",
+      "visual": {}
+    },
+    {
+      "entity_id": "ip_ford",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Ford",
+      "name_zh": "福特汽车 Ford",
+      "desc_zh": "福特汽车经典深蓝椭圆配银白连笔手写体“Ford”徽标，椭圆形外框比例与手写连笔末端卷曲具有极高辨识度。",
+      "template_ids": [
+        "476_ip_ford",
+        "478_ip_ford_copy",
+        "479_ip_ford_mat",
+        "480_ip_ford_prompt"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_ford.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_ford.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/icons/ford.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 346,
+        "aspect_ratio": 2.775,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "深邃海军蓝/藏青",
+        "dominant_color_en": "Deep Navy Blue",
+        "alpha_ratio": 0.805,
+        "dhash": "0f3363657949070f",
+        "md5": "e4416ade97369ce02157d753e4c9e4a3"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_dc_comics",
+          "name_zh": "DC 漫画 DC Comics",
+          "distance": 14
+        },
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 14
+        },
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_tintin",
+          "name_zh": "丁丁历险记 Tintin",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_julius_k9",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Julius-K9",
+      "name_zh": "Julius-K9（宠物装备）",
+      "desc_zh": "欧洲知名犬用胸背带与宠物装备品牌 JULIUS-K9 魔术贴徽章字标，常见粗体白字黑底织唛贴片形式。",
+      "template_ids": [
+        "323_JULIUSK9"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_julius_k9.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Julius-K9_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 473,
+        "height": 266,
+        "aspect_ratio": 1.778,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "鲜明中国红/赤焰红",
+        "dominant_color_en": "Vibrant Scarlet Red",
+        "alpha_ratio": 0.453,
+        "dhash": "b15556aa92139292",
+        "md5": "ce5ed0551f3949e732e761a28df01a60"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_slayer",
+          "name_zh": "杀手乐队 Slayer",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_one_piece",
+          "name_zh": "海贼王 One Piece",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_loewe",
+          "name_zh": "罗意威 LOEWE",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_budweiser",
+          "name_zh": "百威啤酒 Budweiser",
+          "distance": 26
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_bmw",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "BMW",
+      "name_zh": "宝马汽车 BMW",
+      "desc_zh": "宝马圆形蓝白四象限内圈配黑色外环与“BMW”三字母徽标，核心特征为左上蓝、右上白、左下白、右下蓝的对角交替扇形格。",
+      "template_ids": [
+        "221_IP_bmw"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_bmw.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_bmw.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/icons/bmw.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 960,
+        "aspect_ratio": 1.0,
+        "geometry_zh": "正方形/对称正圆同心圆构型",
+        "geometry_en": "Square / Concentric Circular Geometry",
+        "dominant_color_zh": "复合混色调",
+        "dominant_color_en": "Multi-Color Composite",
+        "alpha_ratio": 0.795,
+        "dhash": "171359584061330f",
+        "md5": "6034a07a40a3eee8334f531e34644c7b"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_bp",
+          "name_zh": "英国石油 BP",
+          "distance": 17
+        },
+        {
+          "entity_id": "ip_dc_comics",
+          "name_zh": "DC 漫画 DC Comics",
+          "distance": 17
+        },
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_hatsune_miku",
+          "name_zh": "初音未来 Hatsune Miku",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_triumph_motorcycles",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Triumph Motorcycles",
+      "name_zh": "凯旋摩托车 Triumph Motorcycles",
+      "desc_zh": "英国凯旋摩托车（Triumph Motorcycles）经典长尾“R”延伸下划线字标或三角形徽记，与内衣品牌凯黛芬妮（Triumph International）完全区分。",
+      "template_ids": [
+        "197_IP_Triumph"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_triumph_motorcycles.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_triumph_motorcycles.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_Triumph.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 264,
+        "aspect_ratio": 3.636,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "复合混色调",
+        "dominant_color_en": "Multi-Color Composite",
+        "alpha_ratio": 0.452,
+        "dhash": "da6b24665929134e",
+        "md5": "6b1a1b50ef306a66814073e3000a1b1e"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_tintin",
+          "name_zh": "丁丁历险记 Tintin",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_dc_comics",
+          "name_zh": "DC 漫画 DC Comics",
+          "distance": 23
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_triumph_international",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Triumph International",
+      "name_zh": "黛安芬 Triumph International（内衣服饰）",
+      "desc_zh": "黛安芬（Triumph International）服饰与内衣品牌字标，线条纤细柔顺，与英国凯旋摩托车标在品类与字体结构上截然不同。",
+      "template_ids": [
+        "197_IP_Triumph"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_triumph_international.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_triumph_international.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Triumph_International_logo_2022.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 355,
+        "aspect_ratio": 2.704,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "典雅酒红/深绯",
+        "dominant_color_en": "Deep Burgundy Red",
+        "alpha_ratio": 0.24,
+        "dhash": "4a3c7035290a0202",
+        "md5": "24e89de719dbced0096597881d51bfef"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_chainsaw_man",
+          "name_zh": "电锯人 Chainsaw Man",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_bleach",
+          "name_zh": "死神 BLEACH",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_van_cleef_arpels",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Van Cleef & Arpels",
+      "name_zh": "梵克雅宝 Van Cleef & Arpels",
+      "desc_zh": "法国高级珠宝世家梵克雅宝（Van Cleef & Arpels）官方徽标与字母字标，常伴随四叶草 Alhambra 经典轮廓或 VCA 连体花押字。",
+      "template_ids": [
+        "301_IP_vancleefarpels_test"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_van_cleef_arpels.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_van_cleef_arpels.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Van_Cleef_Arpels_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 161,
+        "aspect_ratio": 5.963,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.186,
+        "dhash": "00a8aa5959510109",
+        "md5": "d0a55d3768697d3bb38fcc32b88c9e93"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_adventure_time",
+          "name_zh": "探险活宝 Adventure Time",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_beyonce",
+          "name_zh": "碧昂丝 Beyoncé",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_my_hero_academia",
+          "name_zh": "我的英雄学院 My Hero Academia",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_bp",
+          "name_zh": "英国石油 BP",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_champion",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Champion",
+      "name_zh": "冠军 Champion（运动服饰）",
+      "desc_zh": "美国运动休闲品牌 Champion 经典的红蓝双色大“C”字袖标及手写连笔草书“Champion”文字徽标。",
+      "template_ids": [
+        "356_champion1103test0511"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_champion.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_champion.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Champion_USA_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 176,
+        "aspect_ratio": 5.455,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "深邃海军蓝/藏青",
+        "dominant_color_en": "Deep Navy Blue",
+        "alpha_ratio": 0.319,
+        "dhash": "70eae3e48f574416",
+        "md5": "e9d139449d43e0a62c52e99c85f1353f"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_secret_life_of_pets",
+          "name_zh": "爱宠大机密 The Secret Life of Pets",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_twenty_one_pilots",
+          "name_zh": "二十一号飞行员乐队 Twenty One Pilots",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_cars_aurelia_ambig",
+          "name_zh": "歧义待核：皮克斯《赛车总动员 Cars》/ 蓝旗亚 Aurelia",
+          "distance": 25
+        },
+        {
+          "entity_id": "ip_the_simpsons",
+          "name_zh": "辛普森一家 The Simpsons",
+          "distance": 26
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_balmain",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Balmain",
+      "name_zh": "巴尔曼 Balmain",
+      "desc_zh": "法国高奢时装屋 Balmain 几何衬线“BALMAIN PARIS”官方文字标识与交错 BP 迷宫徽记。",
+      "template_ids": [
+        "443_ip_balmain"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_balmain.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_balmain.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/luxury_100/016_balmain.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Balmain_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 282,
+        "aspect_ratio": 3.404,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "深邃海军蓝/藏青",
+        "dominant_color_en": "Deep Navy Blue",
+        "alpha_ratio": 0.318,
+        "dhash": "acac6a929526969e",
+        "md5": "b7cd9c2c2b47607cb1de0f88dca3f403"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_chainsaw_man",
+          "name_zh": "电锯人 Chainsaw Man",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_novak_djokovic",
+          "name_zh": "诺瓦克·德约科维奇 Novak Djokovic",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_godzilla",
+          "name_zh": "哥斯拉 Godzilla",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_louis_vuitton",
+          "name_zh": "路易威登 Louis Vuitton",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_apple_watch",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Apple / Apple Watch",
+      "name_zh": "苹果 / Apple Watch",
+      "desc_zh": "苹果公司缺口苹果轮廓徽标与 Apple Watch 组合字标，高频出现在智能手表表带外包装、扣具与配件说明卡。",
+      "template_ids": [
+        "047_IP_APPLE_WATCHBAND"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_apple_watch.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_apple_watch.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/icons/apple.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 1180,
+        "aspect_ratio": 0.814,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.649,
+        "dhash": "c6273303bb530533",
+        "md5": "02f9300c532ae26606f0ebe53683db98"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_evel_knievel",
+          "name_zh": "Evel Knievel 特技车手",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_street_fighter",
+          "name_zh": "街头霸王 Street Fighter",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_costa_del_mar",
+          "name_zh": "Costa Del Mar 偏光镜",
+          "distance": 21
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_zig_zag",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Zig-Zag",
+      "name_zh": "Zig-Zag 品牌标识",
+      "desc_zh": "百年法式品牌 Zig-Zag 标志性佐阿夫士兵人物头像与“ZIG-ZAG”双行标题标识。",
+      "template_ids": [
+        "305_IP_zigzag"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_zig_zag.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/ZZ-Boris-w-frame-bw.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 958,
+        "height": 1041,
+        "aspect_ratio": 0.92,
+        "geometry_zh": "正方形/对称正圆同心圆构型",
+        "geometry_en": "Square / Concentric Circular Geometry",
+        "dominant_color_zh": "纯净明亮白",
+        "dominant_color_en": "Pure Crisp White",
+        "alpha_ratio": 1.0,
+        "dhash": "37e99e2b6d2f338e",
+        "md5": "e36a86796b37476c468d66442dc2c2cc"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_bp",
+          "name_zh": "英国石油 BP",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_tintin",
+          "name_zh": "丁丁历险记 Tintin",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_triumph_motorcycles",
+          "name_zh": "凯旋摩托车 Triumph Motorcycles",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_dominos",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Domino's Pizza",
+      "name_zh": "达美乐披萨 Domino's",
+      "desc_zh": "达美乐披萨倾斜45度红蓝双色骨牌徽标，核心特征为上方红色格含1个白点、下方蓝色格含2个斜对白点。",
+      "template_ids": [
+        "090_IP_DOMINOS"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_dominos.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_dominos.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Dominos_pizza_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 960,
+        "aspect_ratio": 1.0,
+        "geometry_zh": "正方形/对称正圆同心圆构型",
+        "geometry_en": "Square / Concentric Circular Geometry",
+        "dominant_color_zh": "浪漫樱花粉",
+        "dominant_color_en": "Soft Blossom Pink",
+        "alpha_ratio": 0.525,
+        "dhash": "4d96372d39378e4d",
+        "md5": "7ee74167ebd0311d2bd55bcb1d31ea73"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 15
+        },
+        {
+          "entity_id": "ip_my_hero_academia",
+          "name_zh": "我的英雄学院 My Hero Academia",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_strawberry_shortcake",
+          "name_zh": "草莓甜心 Strawberry Shortcake",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_rilakkuma",
+          "name_zh": "轻松小熊 Rilakkuma",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_new_holland",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "New Holland Agriculture",
+      "name_zh": "纽荷兰农机 New Holland",
+      "desc_zh": "全球农机巨头纽荷兰（New Holland）蓝底金黄麦穗叶片与“NEW HOLLAND”组合徽标。",
+      "template_ids": [
+        "389_ip_NEW_HOLLAND"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_new_holland.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/New_Holland_Logo_2023.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 592,
+        "height": 168,
+        "aspect_ratio": 3.524,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "深邃海军蓝/藏青",
+        "dominant_color_en": "Deep Navy Blue",
+        "alpha_ratio": 0.194,
+        "dhash": "0540555d55574011",
+        "md5": "b172c5646212306c1570082e6516e778"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_seven_deadly_sins",
+          "name_zh": "七大罪 The Seven Deadly Sins",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_godzilla",
+          "name_zh": "哥斯拉 Godzilla",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_adventure_time",
+          "name_zh": "探险活宝 Adventure Time",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_mms",
+          "name_zh": "M&M's 巧克力豆",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_bp",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "BP",
+      "name_zh": "英国石油 BP",
+      "desc_zh": "英国石油公司（BP）绿黄白放射状“太阳花（Helios）”向日葵几何徽标及小写绿字“bp”。",
+      "template_ids": [
+        "064_IP_BP"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_bp.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_bp.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/BP_Helios_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 1275,
+        "aspect_ratio": 0.753,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "清爽翠绿/薄荷绿",
+        "dominant_color_en": "Vivid Emerald Green",
+        "alpha_ratio": 0.53,
+        "dhash": "13810f337171330f",
+        "md5": "a647b86426f0805185de255876237d10"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_bmw",
+          "name_zh": "宝马汽车 BMW",
+          "distance": 17
+        },
+        {
+          "entity_id": "ip_budweiser",
+          "name_zh": "百威啤酒 Budweiser",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_zig_zag",
+          "name_zh": "Zig-Zag 品牌标识",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_mms",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "M&M's",
+      "name_zh": "M&M's 巧克力豆",
+      "desc_zh": "M&M's 标志性厚实棕色描边倾斜圆润小写字母“m&m's”商标标识，常见于糖果包装与潮玩服饰印花。",
+      "template_ids": [
+        "263_IP_mandms"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_mms.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_mms.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/M%26M%27s_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 404,
+        "aspect_ratio": 2.376,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "复合混色调",
+        "dominant_color_en": "Multi-Color Composite",
+        "alpha_ratio": 0.662,
+        "dhash": "8323355949577f70",
+        "md5": "4e0fd6965ed482aa55de2aeb422271c1"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_budweiser",
+          "name_zh": "百威啤酒 Budweiser",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_the_new_yorker",
+          "name_zh": "纽约客 The New Yorker",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_street_fighter",
+          "name_zh": "街头霸王 Street Fighter",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_rusty",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Rusty",
+      "name_zh": "Rusty 冲浪服饰（R Dot）",
+      "desc_zh": "冲浪与滑板服饰品牌 Rusty 的标志性“R Dot”实心圆点镂空“R”几何图形标识及“RUSTY”字标。",
+      "template_ids": [
+        "285_IP_rusty"
+      ],
+      "local_path": "",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "needs_manual_ref",
+      "source_url": "",
+      "fetch_ok": false,
+      "error": "no_wiki_candidate_resolved",
+      "visual": {}
+    },
+    {
+      "entity_id": "ip_suzuki",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Suzuki",
+      "name_zh": "铃木汽车/摩托 Suzuki",
+      "desc_zh": "铃木公司标志性红色折角菱形“S”立体徽记配深蓝“SUZUKI”全大写字标。",
+      "template_ids": [
+        "182_IP_SUZUKI"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_suzuki.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_suzuki.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/icons/suzuki.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Suzuki_logo_2025_%28vertical%29.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 644,
+        "aspect_ratio": 1.491,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "深邃海军蓝/藏青",
+        "dominant_color_en": "Deep Navy Blue",
+        "alpha_ratio": 0.329,
+        "dhash": "4d960e960f88c9db",
+        "md5": "0a268a515807e82641970ee2b8c0ea7b"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_star_trek",
+          "name_zh": "星际迷航 Star Trek",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_hatsune_miku",
+          "name_zh": "初音未来 Hatsune Miku",
+          "distance": 25
+        },
+        {
+          "entity_id": "ip_slayer",
+          "name_zh": "杀手乐队 Slayer",
+          "distance": 26
+        },
+        {
+          "entity_id": "ip_audi",
+          "name_zh": "奥迪汽车 Audi",
+          "distance": 27
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_budweiser",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Budweiser",
+      "name_zh": "百威啤酒 Budweiser",
+      "desc_zh": "百威啤酒红色蝴蝶结状缎带徽章或连笔斜体手写“Budweiser”与皇冠徽记。",
+      "template_ids": [
+        "068_IP_Budweiser"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_budweiser.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_budweiser.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Budweiser_Anheuser-Busch_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 307,
+        "aspect_ratio": 3.127,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "典雅酒红/深绯",
+        "dominant_color_en": "Deep Burgundy Red",
+        "alpha_ratio": 0.618,
+        "dhash": "20311533611373c3",
+        "md5": "27a5201500dc1a67579375aa26ee8638"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_bp",
+          "name_zh": "英国石油 BP",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_rilakkuma",
+          "name_zh": "轻松小熊 Rilakkuma",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_mms",
+          "name_zh": "M&M's 巧克力豆",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_seven_deadly_sins",
+          "name_zh": "七大罪 The Seven Deadly Sins",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_ralph_lauren",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Ralph Lauren",
+      "name_zh": "拉夫劳伦 Ralph Lauren",
+      "desc_zh": "拉夫劳伦经典衬线体“RALPH LAUREN”字标与挥杆骑马打马球人物刺绣小标。",
+      "template_ids": [
+        "412_ip_ralphlauren"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_ralph_lauren.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_ralph_lauren.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/luxury_100/026_ralph_lauren.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ralph_Lauren_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 70,
+        "aspect_ratio": 13.714,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.396,
+        "dhash": "b0b1b19191d1f565",
+        "md5": "d14cec841a6a0edcc805cd246413bf88"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_the_new_yorker",
+          "name_zh": "纽约客 The New Yorker",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_budweiser",
+          "name_zh": "百威啤酒 Budweiser",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_mms",
+          "name_zh": "M&M's 巧克力豆",
+          "distance": 25
+        },
+        {
+          "entity_id": "ip_loewe",
+          "name_zh": "罗意威 LOEWE",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_the_new_yorker",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "The New Yorker",
+      "name_zh": "纽约客 The New Yorker",
+      "desc_zh": "《纽约客》杂志标志性高瘦修长衬线体刊头“THE NEW YORKER”及佩戴高礼帽与单片眼镜的尤斯塔斯·蒂利侧影徽记。",
+      "template_ids": [
+        "186_IP_THENEWYORKER_V1"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_the_new_yorker.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_the_new_yorker.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_New_Yorker_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 109,
+        "aspect_ratio": 8.807,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.496,
+        "dhash": "d219195999d95150",
+        "md5": "bf4e353bd95cc4ad0dbbf908c59e948e"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_ralph_lauren",
+          "name_zh": "拉夫劳伦 Ralph Lauren",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_mms",
+          "name_zh": "M&M's 巧克力豆",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_nirvana",
+          "name_zh": "涅槃乐队 Nirvana",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_van_cleef_arpels",
+          "name_zh": "梵克雅宝 Van Cleef & Arpels",
+          "distance": 23
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_ugg",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "UGG",
+      "name_zh": "UGG 雪地靴品牌",
+      "desc_zh": "Deckers 旗下雪地靴品牌 UGG 粗体字母徽标，常见大小写交错“UGG”或雪地靴后跟织唛标牌。",
+      "template_ids": [
+        "298_IP_ugg_patent"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_ugg.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_ugg.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/UGG_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 440,
+        "aspect_ratio": 2.182,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.455,
+        "dhash": "8d93b2b4a632130e",
+        "md5": "ab65982c70fb47a7acd5422c22e31d36"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_loewe",
+          "name_zh": "罗意威 LOEWE",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_guns_n_roses",
+          "name_zh": "枪炮与玫瑰乐队 Guns N' Roses",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_strawberry_shortcake",
+          "name_zh": "草莓甜心 Strawberry Shortcake",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_loewe",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Loewe",
+      "name_zh": "罗意威 LOEWE",
+      "desc_zh": "西班牙高奢品牌罗意威经典“LOEWE”字标及四枚对称“L”字母缠绕构成的 Anagram 徽标。",
+      "template_ids": [
+        "125_IP_LOEWE"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_loewe.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_loewe.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/luxury_100/018_loewe.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Loewe_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 218,
+        "aspect_ratio": 4.404,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.431,
+        "dhash": "ac97d3d2d2d353a8",
+        "md5": "e60aefc4cef864a1f34bba1e8ba8f414"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_ugg",
+          "name_zh": "UGG 雪地靴品牌",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_julius_k9",
+          "name_zh": "Julius-K9（宠物装备）",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_beyonce",
+          "name_zh": "碧昂丝 Beyoncé",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_ralph_lauren",
+          "name_zh": "拉夫劳伦 Ralph Lauren",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_gulf",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Gulf Oil",
+      "name_zh": "海湾石油 Gulf",
+      "desc_zh": "海湾石油经典橙色圆形底盘配深蓝粗体斜写“Gulf”字标及海湾赛车蓝橙条纹涂装锚点。",
+      "template_ids": [
+        "486_ip_gulf"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_gulf.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_gulf.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Gulf_Oil_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 887,
+        "aspect_ratio": 1.082,
+        "geometry_zh": "正方形/对称正圆同心圆构型",
+        "geometry_en": "Square / Concentric Circular Geometry",
+        "dominant_color_zh": "鲜明中国红/赤焰红",
+        "dominant_color_en": "Vibrant Scarlet Red",
+        "alpha_ratio": 0.751,
+        "dhash": "8e0f33712d2b178e",
+        "md5": "b3750c9b0bed315ca616c02f2f3448a4"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_ohayou_spank",
+          "name_zh": "早上好！斯潘克（Ohayou! Spank）",
+          "distance": 17
+        },
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 17
+        },
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_costa_del_mar",
+          "name_zh": "Costa Del Mar 偏光镜",
+          "distance": 19
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_atari",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Atari",
+      "name_zh": "雅达利 Atari",
+      "desc_zh": "电子游戏先驱雅达利经典对称“富士山/A字”三岔竖条纹徽标及“ATARI”字体。",
+      "template_ids": [
+        "215_IP_atari"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_atari.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_atari.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/005_atari.svg",
+        "assets/brand_logos/icons/atari.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Atari_Official_2012_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 1056,
+        "aspect_ratio": 0.909,
+        "geometry_zh": "正方形/对称正圆同心圆构型",
+        "geometry_en": "Square / Concentric Circular Geometry",
+        "dominant_color_zh": "典雅酒红/深绯",
+        "dominant_color_en": "Deep Burgundy Red",
+        "alpha_ratio": 1.0,
+        "dhash": "32b23269d4b494ea",
+        "md5": "864b100c9692aa19a18844bc341fff7c"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_metallica",
+          "name_zh": "金属乐队 Metallica",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_guns_n_roses",
+          "name_zh": "枪炮与玫瑰乐队 Guns N' Roses",
+          "distance": 25
+        },
+        {
+          "entity_id": "ip_nirvana",
+          "name_zh": "涅槃乐队 Nirvana",
+          "distance": 26
+        },
+        {
+          "entity_id": "ip_beyonce",
+          "name_zh": "碧昂丝 Beyoncé",
+          "distance": 26
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_louis_vuitton",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Louis Vuitton",
+      "name_zh": "路易威登 Louis Vuitton",
+      "desc_zh": "路易威登交叠“LV”花押字徽标与四瓣花卉/四角星老花图谱及“LOUIS VUITTON”无衬线字标。",
+      "template_ids": [
+        "261_IP_louisvuitton"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_louis_vuitton.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_louis_vuitton.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/luxury_100/003_louis_vuitton.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Louis_Vuitton_logo_and_wordmark.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 1171,
+        "aspect_ratio": 0.82,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.367,
+        "dhash": "612d2b9a1e2c31a6",
+        "md5": "adfce2876b0aeba8e8bc585831f1d1e8"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_balmain",
+          "name_zh": "巴尔曼 Balmain",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_zig_zag",
+          "name_zh": "Zig-Zag 品牌标识",
+          "distance": 26
+        },
+        {
+          "entity_id": "ip_slayer",
+          "name_zh": "杀手乐队 Slayer",
+          "distance": 26
+        },
+        {
+          "entity_id": "ip_fallout",
+          "name_zh": "辐射 Fallout",
+          "distance": 26
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_audi",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Audi",
+      "name_zh": "奥迪汽车 Audi",
+      "desc_zh": "奥迪标志性水平并排且逐个等距互扣的四个圆环徽标，环数严格为4个，常见银色立体或纯黑扁平形式。",
+      "template_ids": [
+        "002_AUDIselfmodel"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_audi.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_audi.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/icons/audi.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Audi-Logo_2016.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 339,
+        "aspect_ratio": 2.832,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.466,
+        "dhash": "55aaaaaaaaaaaa55",
+        "md5": "45e5f8acb63445486b89a71c7aabb039"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_guess",
+          "name_zh": "GUESS 时装品牌",
+          "distance": 17
+        },
+        {
+          "entity_id": "ip_guns_n_roses",
+          "name_zh": "枪炮与玫瑰乐队 Guns N' Roses",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_slayer",
+          "name_zh": "杀手乐队 Slayer",
+          "distance": 25
+        },
+        {
+          "entity_id": "ip_tintin",
+          "name_zh": "丁丁历险记 Tintin",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_costa_del_mar",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "Costa Del Mar",
+      "name_zh": "Costa Del Mar 偏光镜",
+      "desc_zh": "美国海钓偏光太阳镜品牌 Costa Del Mar 圆形海浪双“C”融合字母徽标与“COSTA”标识。",
+      "template_ids": [
+        "226_IP_costadelmar_COSTA"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_costa_del_mar.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Costa_Del_Mar_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 320,
+        "height": 210,
+        "aspect_ratio": 1.524,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "纯净明亮白",
+        "dominant_color_en": "Pure Crisp White",
+        "alpha_ratio": 1.0,
+        "dhash": "8e1f3b1b8c630b6b",
+        "md5": "0110c91fc65bbf4733c703212ff478cb"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_apple_watch",
+          "name_zh": "苹果 / Apple Watch",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_nirvana",
+          "name_zh": "涅槃乐队 Nirvana",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_bmw",
+          "name_zh": "宝马汽车 BMW",
+          "distance": 23
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_guess",
+      "category": "brand",
+      "v2_domain": "brand",
+      "name_en": "GUESS",
+      "name_zh": "GUESS 时装品牌",
+      "desc_zh": "美国时装品牌 GUESS 红色边框倒等腰三角形徽标，内含“GUESS ? U.S.A.”字样及底部红色问号。",
+      "template_ids": [
+        "377_guess_test"
+      ],
+      "local_path": "assets/sch96_ip_supplement/brands/ip_guess.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_guess.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Guess_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 170,
+        "aspect_ratio": 5.647,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.396,
+        "dhash": "aeaaaaaaeaa8aaaa",
+        "md5": "a1b4f64abce4fd0dc3276b4b6eba5b16"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_audi",
+          "name_zh": "奥迪汽车 Audi",
+          "distance": 17
+        },
+        {
+          "entity_id": "ip_balmain",
+          "name_zh": "巴尔曼 Balmain",
+          "distance": 26
+        },
+        {
+          "entity_id": "ip_zig_zag",
+          "name_zh": "Zig-Zag 品牌标识",
+          "distance": 26
+        },
+        {
+          "entity_id": "ip_atari",
+          "name_zh": "雅达利 Atari",
+          "distance": 27
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_metallica",
+      "category": "music_celebrity_sports",
+      "v2_domain": "brand",
+      "name_en": "Metallica",
+      "name_zh": "金属乐队 Metallica",
+      "desc_zh": "重金属传奇乐队 Metallica 标志性首尾字母“M”和“A”呈尖锐闪电倒钩延展的对称字体徽标。",
+      "template_ids": [
+        "269_IP_metallica"
+      ],
+      "local_path": "assets/sch96_ip_supplement/music_celebrity_sports/ip_metallica.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_metallica.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Metallica_wordmark.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 403,
+        "aspect_ratio": 2.382,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.216,
+        "dhash": "413b3b6d41d4c0a2",
+        "md5": "2e80a3eaebaef20295b13808539d8740"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_atari",
+          "name_zh": "雅达利 Atari",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_van_cleef_arpels",
+          "name_zh": "梵克雅宝 Van Cleef & Arpels",
+          "distance": 25
+        },
+        {
+          "entity_id": "ip_squishmallows",
+          "name_zh": "Squishmallows 毛绒玩偶",
+          "distance": 25
+        },
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 26
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_slayer",
+      "category": "music_celebrity_sports",
+      "v2_domain": "brand",
+      "name_en": "Slayer",
+      "name_zh": "杀手乐队 Slayer",
+      "desc_zh": "激流金属乐队 Slayer 锐利锯齿状“SLAYER”字标及经典的剑十字五芒星徽记。",
+      "template_ids": [
+        "518_ip_slayer"
+      ],
+      "local_path": "assets/sch96_ip_supplement/music_celebrity_sports/ip_slayer.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Slayer_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 100,
+        "height": 100,
+        "aspect_ratio": 1.0,
+        "geometry_zh": "正方形/对称正圆同心圆构型",
+        "geometry_en": "Square / Concentric Circular Geometry",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 1.0,
+        "dhash": "4980a69a92112091",
+        "md5": "041544ebb2a24693192393ef8591e18a"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_van_cleef_arpels",
+          "name_zh": "梵克雅宝 Van Cleef & Arpels",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_julius_k9",
+          "name_zh": "Julius-K9（宠物装备）",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_warhammer",
+          "name_zh": "战锤 Warhammer",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_fallout",
+          "name_zh": "辐射 Fallout",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_nirvana",
+      "category": "music_celebrity_sports",
+      "v2_domain": "brand",
+      "name_en": "Nirvana",
+      "name_zh": "涅槃乐队 Nirvana",
+      "desc_zh": "涅槃乐队（Nirvana）经典拉长衬线体“NIRVANA”字标，常配黑底黄色手绘叉眼吐舌笑脸涂鸦。",
+      "template_ids": [
+        "509_ip_nirvana2",
+        "508_ip_nirvana"
+      ],
+      "local_path": "assets/sch96_ip_supplement/music_celebrity_sports/ip_nirvana.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_nirvana.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Nirvananevermind-logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 533,
+        "aspect_ratio": 1.801,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.515,
+        "dhash": "bb9b3b59146d4d4c",
+        "md5": "feb4c1c8c429159fcdd1a7bc9823faf1"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_costa_del_mar",
+          "name_zh": "Costa Del Mar 偏光镜",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_the_new_yorker",
+          "name_zh": "纽约客 The New Yorker",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_bmw",
+          "name_zh": "宝马汽车 BMW",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_beyonce",
+      "category": "music_celebrity_sports",
+      "v2_domain": "brand",
+      "name_en": "Beyoncé",
+      "name_zh": "碧昂丝 Beyoncé",
+      "desc_zh": "流行天后碧昂丝（Beyoncé）官方演出与巡演周边字标，常见金属质感“BEYONCÉ”及文艺复兴/牛仔卡特专辑标志。",
+      "template_ids": [
+        "056_IP_BEYONCE",
+        "220_IP_beyonce_strategy"
+      ],
+      "local_path": "assets/sch96_ip_supplement/music_celebrity_sports/ip_beyonce.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_beyonce.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beyonc%C3%A9_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 203,
+        "aspect_ratio": 4.729,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.49,
+        "dhash": "00a8e8d5d6d6c3e8",
+        "md5": "f67d05a8ad79e2524b9779ca38fd2159"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_van_cleef_arpels",
+          "name_zh": "梵克雅宝 Van Cleef & Arpels",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_friends",
+          "name_zh": "老友记 Friends",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_squishmallows",
+          "name_zh": "Squishmallows 毛绒玩偶",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_loewe",
+          "name_zh": "罗意威 LOEWE",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_twenty_one_pilots",
+      "category": "music_celebrity_sports",
+      "v2_domain": "brand",
+      "name_en": "Twenty One Pilots",
+      "name_zh": "二十一号飞行员乐队 Twenty One Pilots",
+      "desc_zh": "美国双人乐队 Twenty One Pilots 经典的几何竖杠斜杠符号“|-/”或“||-//”极简几何徽标。",
+      "template_ids": [
+        "199_IP_TwentyOnePilots"
+      ],
+      "local_path": "assets/sch96_ip_supplement/music_celebrity_sports/ip_twenty_one_pilots.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_twenty_one_pilots.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Twenty_One_Pilots_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 975,
+        "aspect_ratio": 0.985,
+        "geometry_zh": "正方形/对称正圆同心圆构型",
+        "geometry_en": "Square / Concentric Circular Geometry",
+        "dominant_color_zh": "典雅酒红/深绯",
+        "dominant_color_en": "Deep Burgundy Red",
+        "alpha_ratio": 0.469,
+        "dhash": "69696377664f4d4a",
+        "md5": "bd6581f405301431a61f3c421f54899a"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_rilakkuma",
+          "name_zh": "轻松小熊 Rilakkuma",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_tintin",
+          "name_zh": "丁丁历险记 Tintin",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_dragon_ball",
+          "name_zh": "七龙珠 Dragon Ball",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_secret_life_of_pets",
+          "name_zh": "爱宠大机密 The Secret Life of Pets",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_evel_knievel",
+      "category": "music_celebrity_sports",
+      "v2_domain": "brand",
+      "name_en": "Evel Knievel",
+      "name_zh": "Evel Knievel 特技车手",
+      "desc_zh": "美国传奇摩托车特技车手 Evel Knievel 标志性红白蓝星条“V”形徽标及复古粗体字标。",
+      "template_ids": [
+        "244_IP_evelknievel"
+      ],
+      "local_path": "assets/sch96_ip_supplement/music_celebrity_sports/ip_evel_knievel.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/e/ef/Evel_Knievel_Museum_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 309,
+        "height": 156,
+        "aspect_ratio": 1.981,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "典雅酒红/深绯",
+        "dominant_color_en": "Deep Burgundy Red",
+        "alpha_ratio": 0.629,
+        "dhash": "046659533f530f38",
+        "md5": "aaa491bad760474f92f3bc17df17696c"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_apple_watch",
+          "name_zh": "苹果 / Apple Watch",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_street_fighter",
+          "name_zh": "街头霸王 Street Fighter",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_hatsune_miku",
+          "name_zh": "初音未来 Hatsune Miku",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_novak_djokovic",
+      "category": "music_celebrity_sports",
+      "v2_domain": "brand",
+      "name_en": "Novak Djokovic",
+      "name_zh": "诺瓦克·德约科维奇 Novak Djokovic",
+      "desc_zh": "网球天王德约科维奇个人“ND”花押字徽标（负空间形成展翅飞鸟轮廓）及官方个人签名标识。",
+      "template_ids": [
+        "331_NOVAK_DJOKOVICselfmodel"
+      ],
+      "local_path": "assets/sch96_ip_supplement/music_celebrity_sports/ip_novak_djokovic.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_novak_djokovic.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Novak_Djokovic_signature.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 695,
+        "aspect_ratio": 1.381,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.212,
+        "dhash": "97344c9735a78e38",
+        "md5": "f547c3292f9508009641f608fdcc4ae1"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_godzilla",
+          "name_zh": "哥斯拉 Godzilla",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_evel_knievel",
+          "name_zh": "Evel Knievel 特技车手",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_balmain",
+          "name_zh": "巴尔曼 Balmain",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_super_mario",
+          "name_zh": "超级马力欧 Super Mario",
+          "distance": 23
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_guns_n_roses",
+      "category": "music_celebrity_sports",
+      "v2_domain": "brand",
+      "name_en": "Guns N' Roses",
+      "name_zh": "枪炮与玫瑰乐队 Guns N' Roses",
+      "desc_zh": "美国硬摇滚乐队枪炮与玫瑰经典圆形金环徽标：双左轮手枪交叉配两朵红玫瑰缠绕，环绕“GUNS N' ROSES”字样。",
+      "template_ids": [
+        "252_IP_gunsnroses_strategy"
+      ],
+      "local_path": "assets/sch96_ip_supplement/music_celebrity_sports/ip_guns_n_roses.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Guns_roses_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 180,
+        "height": 65,
+        "aspect_ratio": 2.769,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.372,
+        "dhash": "6cf2b263b3b2b254",
+        "md5": "8f6f13fc8380068ce1c06ddbaf961c93"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_audi",
+          "name_zh": "奥迪汽车 Audi",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_ugg",
+          "name_zh": "UGG 雪地靴品牌",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_miffy",
+          "name_zh": "米菲兔 Miffy",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_strawberry_shortcake",
+          "name_zh": "草莓甜心 Strawberry Shortcake",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_ohayou_spank",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Ohayou! Spank",
+      "name_zh": "早上好！斯潘克（Ohayou! Spank）",
+      "desc_zh": "日本经典复古少女漫《早上好！斯潘克（Hello! Spank）》主角小白犬（大垂耳圆脸小狗）与经典日语标题徽标。",
+      "template_ids": [
+        "028_IP_ohayou_spank"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_ohayou_spank.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Ohayouspank.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 210,
+        "height": 235,
+        "aspect_ratio": 0.894,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "浪漫樱花粉",
+        "dominant_color_en": "Soft Blossom Pink",
+        "alpha_ratio": 1.0,
+        "dhash": "4e4d31795b3b1e9d",
+        "md5": "3bb06d746b3efa344da448e70796d8ff"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 17
+        },
+        {
+          "entity_id": "ip_fallout",
+          "name_zh": "辐射 Fallout",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_strawberry_shortcake",
+          "name_zh": "草莓甜心 Strawberry Shortcake",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_friends",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Friends",
+      "name_zh": "老友记 Friends",
+      "desc_zh": "美剧《老友记（Friends）》标志性手写体大写“F·R·I·E·N·D·S”字标，核心识别锚点为字母间红、蓝、黄三色交替圆点。",
+      "template_ids": [
+        "311_IP_friends"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_friends.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_friends.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Friends_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 159,
+        "aspect_ratio": 6.038,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.26,
+        "dhash": "a66bc9c443cac2c4",
+        "md5": "00ccc9f24dca3bd87747f3e344c8928e"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_miffy",
+          "name_zh": "米菲兔 Miffy",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_beyonce",
+          "name_zh": "碧昂丝 Beyoncé",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_champion",
+          "name_zh": "冠军 Champion（运动服饰）",
+          "distance": 27
+        },
+        {
+          "entity_id": "ip_loewe",
+          "name_zh": "罗意威 LOEWE",
+          "distance": 27
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_bleach",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Bleach",
+      "name_zh": "死神 BLEACH",
+      "desc_zh": "热血日漫《死神（BLEACH）》官方标题徽标，常见极粗黑体倾斜大写“BLEACH”配橙红骷髅或死霸装刀锋元素。",
+      "template_ids": [
+        "351_bleach"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_bleach.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_bleach.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bleach_Thousand-Year_Blood_War_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 365,
+        "aspect_ratio": 2.63,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.483,
+        "dhash": "5b5355453b8e06a6",
+        "md5": "77ce93bdf7c679cb7a61d6d5b03cdef7"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_triumph_international",
+          "name_zh": "黛安芬 Triumph International（内衣服饰）",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_tokyo_ghoul",
+          "name_zh": "东京喰种 Tokyo Ghoul",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_squishmallows",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Squishmallows",
+      "name_zh": "Squishmallows 毛绒玩偶",
+      "desc_zh": "热门圆润毛绒玩偶品牌 Squishmallows 的彩色渐变气泡字体官方徽标，常见于吊牌、包装盒与联名服饰。",
+      "template_ids": [
+        "289_IP_squishmallows"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_squishmallows.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Squishmallows_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 1024,
+        "height": 780,
+        "aspect_ratio": 1.313,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "纯净明亮白",
+        "dominant_color_en": "Pure Crisp White",
+        "alpha_ratio": 1.0,
+        "dhash": "00381a1c66c35300",
+        "md5": "8bf70dfe1bb07bd53f76f429a83acd10"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_van_cleef_arpels",
+          "name_zh": "梵克雅宝 Van Cleef & Arpels",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_budweiser",
+          "name_zh": "百威啤酒 Budweiser",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_beyonce",
+          "name_zh": "碧昂丝 Beyoncé",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_rezero",
+          "name_zh": "Re:从零开始的异世界生活",
+          "distance": 23
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_rezero",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Re:Zero - Starting Life in Another World",
+      "name_zh": "Re:从零开始的异世界生活",
+      "desc_zh": "轻小说与动画《Re:从零开始的异世界生活》官方标题标识，以紫粉渐变“Re:”前缀配合“ゼロから始める異世界生活”字样。",
+      "template_ids": [
+        "283_IP_rezero"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_rezero.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_rezero.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 388,
+        "aspect_ratio": 2.474,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.332,
+        "dhash": "d8de9ece660b1716",
+        "md5": "d9cacf49916601c864988343dfd52fef"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_squishmallows",
+          "name_zh": "Squishmallows 毛绒玩偶",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_hatsune_miku",
+          "name_zh": "初音未来 Hatsune Miku",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_my_hero_academia",
+          "name_zh": "我的英雄学院 My Hero Academia",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_ugg",
+          "name_zh": "UGG 雪地靴品牌",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_demon_slayer",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Demon Slayer: Kimetsu no Yaiba",
+      "name_zh": "鬼灭之刃 Demon Slayer",
+      "desc_zh": "超人气动画《鬼灭之刃》毛笔书法风标题字标与绿黑市松格纹等代表性视觉元素（关联模板含花纹变体）。",
+      "template_ids": [
+        "235_IP_demonslayer_ceshi_1",
+        "237_IP_demonslayer_huawen",
+        "234_IP_demonslayer_ceshi"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_demon_slayer.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_demon_slayer.svg",
+      "existing_datawheel_paths": [
+        "assets/character_ips/shonen_jump/09_demonslayer_tanjiro_water.png",
+        "assets/character_ips/shonen_jump/11_demonslayer_nezuko.png"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kimetsu_no_Yaiba_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 546,
+        "aspect_ratio": 1.758,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.379,
+        "dhash": "197044472e3834c8",
+        "md5": "9cdeb1783fb7c1da6183140010be9d30"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_dragon_ball",
+          "name_zh": "七龙珠 Dragon Ball",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_bleach",
+          "name_zh": "死神 BLEACH",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_tokyo_ghoul",
+          "name_zh": "东京喰种 Tokyo Ghoul",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_star_trek",
+          "name_zh": "星际迷航 Star Trek",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_dragon_ball",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Dragon Ball",
+      "name_zh": "七龙珠 Dragon Ball",
+      "desc_zh": "鸟山明经典作品《七龙珠》黄红渐变粗体字标，常见四星龙珠嵌入“O”字母或右侧红色神龙剪影。",
+      "template_ids": [
+        "470_ip_dragonball",
+        "400_ip_dragonball"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_dragon_ball.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_dragon_ball.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/062_dragon_ball.svg",
+        "assets/character_ips/shonen_jump/01_dragonball_goku.png"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dragon_Ball_Z_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 245,
+        "aspect_ratio": 3.918,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "典雅酒红/深绯",
+        "dominant_color_en": "Deep Burgundy Red",
+        "alpha_ratio": 0.713,
+        "dhash": "c9e1654d25256509",
+        "md5": "8c532d3d28249520a151513d2693b90c"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_tom_and_jerry",
+          "name_zh": "猫和老鼠 Tom and Jerry",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_adventure_time",
+          "name_zh": "探险活宝 Adventure Time",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_twenty_one_pilots",
+          "name_zh": "二十一号飞行员乐队 Twenty One Pilots",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_hatsune_miku",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Hatsune Miku",
+      "name_zh": "初音未来 Hatsune Miku",
+      "desc_zh": "虚拟歌手初音未来（Hatsune Miku）葱绿与桃红科技线条字标及葱绿色双马尾形象（关联 V4 与 1103 双模板）。",
+      "template_ids": [
+        "107_IP_HATSUNEMIKU_V4",
+        "103_IP_HATSUNEMIKU1103"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_hatsune_miku.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_hatsune_miku.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hatsune_miku_logo_v3.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 412,
+        "aspect_ratio": 2.33,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浪漫樱花粉",
+        "dominant_color_en": "Soft Blossom Pink",
+        "alpha_ratio": 0.631,
+        "dhash": "5c5e5c5a1e112b0b",
+        "md5": "d7caa01a813358344ffe88013b79f1dc"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_evel_knievel",
+          "name_zh": "Evel Knievel 特技车手",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_bmw",
+          "name_zh": "宝马汽车 BMW",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_costa_del_mar",
+          "name_zh": "Costa Del Mar 偏光镜",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_spirit_ambig",
+          "name_zh": "歧义待核：梦工厂《小马王 Spirit》/ Spirit Halloween",
+          "distance": 23
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_street_fighter",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Street Fighter",
+      "name_zh": "街头霸王 Street Fighter",
+      "desc_zh": "卡普空经典格斗游戏《街头霸王（Street Fighter）》黄橙渐变立体倾斜喷漆风格标题字标。",
+      "template_ids": [
+        "523_ip_streetfighter"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_street_fighter.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/025_street_fighter.svg"
+      ],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Street_Fighter_Logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 300,
+        "height": 148,
+        "aspect_ratio": 2.027,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "典雅酒红/深绯",
+        "dominant_color_en": "Deep Burgundy Red",
+        "alpha_ratio": 0.562,
+        "dhash": "06273d232b5e2e2c",
+        "md5": "9b46187b98a3b8e2526271fc49e371f9"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 15
+        },
+        {
+          "entity_id": "ip_evel_knievel",
+          "name_zh": "Evel Knievel 特技车手",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_my_dress_up_darling",
+          "name_zh": "更衣人偶坠入爱河 My Dress-Up Darling",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_apple_watch",
+          "name_zh": "苹果 / Apple Watch",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_seven_deadly_sins",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "The Seven Deadly Sins",
+      "name_zh": "七大罪 The Seven Deadly Sins",
+      "desc_zh": "奇幻日漫《七大罪（七つの大罪）》官方标题徽标及七宗罪动物纹章系列图腾。",
+      "template_ids": [
+        "288_IP_sevendeadlysins"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_seven_deadly_sins.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Nanatsu_no_Taizai-_Imashime_no_Fukkatsu_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 903,
+        "height": 421,
+        "aspect_ratio": 2.145,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "鲜明中国红/赤焰红",
+        "dominant_color_en": "Vibrant Scarlet Red",
+        "alpha_ratio": 0.415,
+        "dhash": "0004415541455b5b",
+        "md5": "8345b7fd1d866481b3decc944903f15a"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_bmw",
+          "name_zh": "宝马汽车 BMW",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_mms",
+          "name_zh": "M&M's 巧克力豆",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_budweiser",
+          "name_zh": "百威啤酒 Budweiser",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_tom_and_jerry",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Tom and Jerry",
+      "name_zh": "猫和老鼠 Tom and Jerry",
+      "desc_zh": "经典动画《猫和老鼠（Tom and Jerry）》官方红黄配色立体卡通标题字标与角色剪影。",
+      "template_ids": [
+        "191_IP_TOMandJERRY"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_tom_and_jerry.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_tom_and_jerry.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Tom_and_Jerry_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 202,
+        "aspect_ratio": 4.752,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "典雅酒红/深绯",
+        "dominant_color_en": "Deep Burgundy Red",
+        "alpha_ratio": 0.684,
+        "dhash": "e365612933256773",
+        "md5": "cdd73480bc71fc98f16989bddeac71fa"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_dragon_ball",
+          "name_zh": "七龙珠 Dragon Ball",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_apple_watch",
+          "name_zh": "苹果 / Apple Watch",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_adventure_time",
+          "name_zh": "探险活宝 Adventure Time",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_mms",
+          "name_zh": "M&M's 巧克力豆",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_dav_pilkey",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Dav Pilkey (Dog Man / Captain Underpants)",
+      "name_zh": "Dav Pilkey（神探狗狗 / 内裤超人）",
+      "desc_zh": "美国童书作家 Dav Pilkey 代表作《神探狗狗（Dog Man）》与《内裤超人（Captain Underpants）》官方书标与角色标识。",
+      "template_ids": [
+        "232_IP_davpilkey_test"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_dav_pilkey.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Cunderpants.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 366,
+        "height": 148,
+        "aspect_ratio": 2.473,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "质感中性灰",
+        "dominant_color_en": "Neutral Heather Gray",
+        "alpha_ratio": 0.712,
+        "dhash": "1f534f33cf9f3169",
+        "md5": "374716d070cc4209eec0a67b5bf5ff72"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_bp",
+          "name_zh": "英国石油 BP",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_cars_aurelia_ambig",
+          "name_zh": "歧义待核：皮克斯《赛车总动员 Cars》/ 蓝旗亚 Aurelia",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_star_trek",
+          "name_zh": "星际迷航 Star Trek",
+          "distance": 25
+        },
+        {
+          "entity_id": "ip_the_simpsons",
+          "name_zh": "辛普森一家 The Simpsons",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_miffy",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Miffy",
+      "name_zh": "米菲兔 Miffy",
+      "desc_zh": "荷兰迪克·布鲁纳创作的经典极简线条小白兔米菲（Miffy）：黑色粗轮廓双圆点眼睛配交叉“×”形小嘴。",
+      "template_ids": [
+        "138_IP_MIFFYRABBIT_HIGHACCURACY"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_miffy.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Miffy_and_Friends_Logo_Noggin.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 270,
+        "height": 235,
+        "aspect_ratio": 1.149,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "深邃海军蓝/藏青",
+        "dominant_color_en": "Deep Navy Blue",
+        "alpha_ratio": 1.0,
+        "dhash": "6666c8c4d3329448",
+        "md5": "27444c3de78d77660683c0b0166185fa"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_friends",
+          "name_zh": "老友记 Friends",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_tokyo_ghoul",
+          "name_zh": "东京喰种 Tokyo Ghoul",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_the_simpsons",
+          "name_zh": "辛普森一家 The Simpsons",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_guns_n_roses",
+          "name_zh": "枪炮与玫瑰乐队 Guns N' Roses",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_super_mario",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Super Mario",
+      "name_zh": "超级马力欧 Super Mario",
+      "desc_zh": "任天堂经典游戏《超级马力欧（Super Mario）》红蓝黄绿多色粗描边立体字母标题字标。",
+      "template_ids": [
+        "343_SUPERMARIO_WORD"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_super_mario.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/020_super_mario.svg"
+      ],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Super_Mario_Series_Logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 150,
+        "aspect_ratio": 6.4,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "复合混色调",
+        "dominant_color_en": "Multi-Color Composite",
+        "alpha_ratio": 0.856,
+        "dhash": "db35a5b7a4a55b51",
+        "md5": "dc80c1e30ef23593ae94c2b13c9a1563"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_one_piece",
+          "name_zh": "海贼王 One Piece",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_novak_djokovic",
+          "name_zh": "诺瓦克·德约科维奇 Novak Djokovic",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_dragon_ball",
+          "name_zh": "七龙珠 Dragon Ball",
+          "distance": 25
+        },
+        {
+          "entity_id": "ip_tom_and_jerry",
+          "name_zh": "猫和老鼠 Tom and Jerry",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_tintin",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "The Adventures of Tintin",
+      "name_zh": "丁丁历险记 Tintin",
+      "desc_zh": "比利时埃尔热经典漫画《丁丁历险记》手写标题字标及一撮前翘金发配小白狗米卢（Snowy）标志性剪影。",
+      "template_ids": [
+        "294_IP_tintin"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_tintin.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Tintin-mainCast.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 372,
+        "height": 267,
+        "aspect_ratio": 1.393,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "沉稳墨绿/橄榄绿",
+        "dominant_color_en": "Forest Olive Green",
+        "alpha_ratio": 0.612,
+        "dhash": "232b27672b2b6b4d",
+        "md5": "809d55aa786d8772a30360cf26bfa896"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_triumph_motorcycles",
+          "name_zh": "凯旋摩托车 Triumph Motorcycles",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_twenty_one_pilots",
+          "name_zh": "二十一号飞行员乐队 Twenty One Pilots",
+          "distance": 21
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_adventure_time",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Adventure Time",
+      "name_zh": "探险活宝 Adventure Time",
+      "desc_zh": "卡通频道经典动画《探险活宝（Adventure Time）》红色长剑贯穿白字金属标题牌官方徽标。",
+      "template_ids": [
+        "035_IP_ADVENTURETIME"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_adventure_time.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/6/6f/Adventure_Time_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 501,
+        "height": 198,
+        "aspect_ratio": 2.53,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "典雅酒红/深绯",
+        "dominant_color_en": "Deep Burgundy Red",
+        "alpha_ratio": 0.523,
+        "dhash": "60690d0919574709",
+        "md5": "516a06fb7928d75f6b8863b1c3378989"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_van_cleef_arpels",
+          "name_zh": "梵克雅宝 Van Cleef & Arpels",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_my_hero_academia",
+          "name_zh": "我的英雄学院 My Hero Academia",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_my_dress_up_darling",
+          "name_zh": "更衣人偶坠入爱河 My Dress-Up Darling",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 21
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_one_piece",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "One Piece",
+      "name_zh": "海贼王 One Piece",
+      "desc_zh": "尾田荣一郎代表作《海贼王（ONE PIECE）》官方标题字标，特征为红带黄草帽覆盖字母“O”骷髅、铁锚构成的“I”及路飞拉长手臂“E”。",
+      "template_ids": [
+        "409_ip_onepiece"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_one_piece.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_one_piece.svg",
+      "existing_datawheel_paths": [
+        "assets/character_ips/shonen_jump/02_onepiece_luffy.png",
+        "assets/character_ips/shonen_jump/05_onepiece_zoro.png"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/One_piece_logo_1.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 175,
+        "aspect_ratio": 5.486,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.491,
+        "dhash": "d47465f2aaf152d2",
+        "md5": "d552b23023ec2a40fee2f606a3767e5e"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_secret_life_of_pets",
+          "name_zh": "爱宠大机密 The Secret Life of Pets",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_super_mario",
+          "name_zh": "超级马力欧 Super Mario",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_julius_k9",
+          "name_zh": "Julius-K9（宠物装备）",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_demon_slayer",
+          "name_zh": "鬼灭之刃 Demon Slayer",
+          "distance": 26
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_jujutsu_kaisen",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Jujutsu Kaisen",
+      "name_zh": "咒术回战 Jujutsu Kaisen",
+      "desc_zh": "热门日漫《咒术回战》硬朗破笔书法风标题字标与涡旋诅咒符号徽标。",
+      "template_ids": [
+        "122_IP_JUJUTSUKAISEN"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_jujutsu_kaisen.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_jujutsu_kaisen.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Jujutsu_Kaisen_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 212,
+        "aspect_ratio": 4.528,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "复合混色调",
+        "dominant_color_en": "Multi-Color Composite",
+        "alpha_ratio": 0.421,
+        "dhash": "a535121751f67606",
+        "md5": "bc499d650a82a7e0a52118527fd3cb3d"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_godzilla",
+          "name_zh": "哥斯拉 Godzilla",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_budweiser",
+          "name_zh": "百威啤酒 Budweiser",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_strawberry_shortcake",
+          "name_zh": "草莓甜心 Strawberry Shortcake",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_balmain",
+          "name_zh": "巴尔曼 Balmain",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_secret_life_of_pets",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "The Secret Life of Pets",
+      "name_zh": "爱宠大机密 The Secret Life of Pets",
+      "desc_zh": "照明娱乐动画电影《爱宠大机密》蓝黄拼色手绘感英文标题徽标，常附带小狗麦克与兔子小白形象。",
+      "template_ids": [
+        "195_IP_TheSecretLifeofPets"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_secret_life_of_pets.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_secret_life_of_pets.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/7/73/The_Secret_Life_of_Pets_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 843,
+        "aspect_ratio": 1.139,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "明媚皇家蓝/天青",
+        "dominant_color_en": "Vibrant Royal Blue",
+        "alpha_ratio": 0.689,
+        "dhash": "585b6376b651d6de",
+        "md5": "37e7baaa9e8b0d8940b4b68a1c45ad39"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_one_piece",
+          "name_zh": "海贼王 One Piece",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_champion",
+          "name_zh": "冠军 Champion（运动服饰）",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_twenty_one_pilots",
+          "name_zh": "二十一号飞行员乐队 Twenty One Pilots",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_warhammer",
+          "name_zh": "战锤 Warhammer",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_star_trek",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Star Trek",
+      "name_zh": "星际迷航 Star Trek",
+      "desc_zh": "科幻巨制《星际迷航（Star Trek）》锐利前卫标题字体与星际舰队不对称三角形箭头（Delta）徽章。",
+      "template_ids": [
+        "522_ip_startrek"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_star_trek.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_star_trek.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/091_star_trek.svg",
+        "assets/brand_logos/icons/startrek.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Emblem.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 1472,
+        "aspect_ratio": 0.652,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.341,
+        "dhash": "4d4f96330b3960ca",
+        "md5": "f77243d0894914ee7bb6d4db7fdb779e"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_suzuki",
+          "name_zh": "铃木汽车/摩托 Suzuki",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_my_dress_up_darling",
+          "name_zh": "更衣人偶坠入爱河 My Dress-Up Darling",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_hatsune_miku",
+          "name_zh": "初音未来 Hatsune Miku",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_the_simpsons",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "The Simpsons",
+      "name_zh": "辛普森一家 The Simpsons",
+      "desc_zh": "长寿美漫《辛普森一家（The Simpsons）》明黄色手绘俏皮黑描边标题字标及蓝天白云背景主题。",
+      "template_ids": [
+        "187_IP_THESIMPSONver2"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_the_simpsons.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_the_simpsons.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/093_the_simpsons.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 540,
+        "aspect_ratio": 1.778,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "辉煌金黄/琥珀黄",
+        "dominant_color_en": "Golden Amber Yellow",
+        "alpha_ratio": 0.333,
+        "dhash": "044c4ea4851b7040",
+        "md5": "32b8f382cfc961df382715384ef1643c"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_miffy",
+          "name_zh": "米菲兔 Miffy",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_star_trek",
+          "name_zh": "星际迷航 Star Trek",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_squishmallows",
+          "name_zh": "Squishmallows 毛绒玩偶",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_fallout",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Fallout",
+      "name_zh": "辐射 Fallout",
+      "desc_zh": "贝塞斯达末世 RPG《辐射（Fallout）》复古未来主义闪电斜切字标，常见避难所科技齿轮与蓝黄配色避难所小子。",
+      "template_ids": [
+        "096_IP_FALLOUT"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_fallout.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_fallout.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/038_fallout.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Fallout_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 373,
+        "aspect_ratio": 2.574,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.503,
+        "dhash": "48ccaddbbbbb3bad",
+        "md5": "f06a358c29def60eefac67b3f1a04996"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_ohayou_spank",
+          "name_zh": "早上好！斯潘克（Ohayou! Spank）",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_my_hero_academia",
+          "name_zh": "我的英雄学院 My Hero Academia",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_slayer",
+          "name_zh": "杀手乐队 Slayer",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_hatsune_miku",
+          "name_zh": "初音未来 Hatsune Miku",
+          "distance": 25
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_my_hero_academia",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "My Hero Academia",
+      "name_zh": "我的英雄学院 My Hero Academia",
+      "desc_zh": "热血少年漫《我的英雄学院》美漫爆炸边框配红黄渐变立体字标。",
+      "template_ids": [
+        "145_IP_MYHEROACADEMIA"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_my_hero_academia.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/My_Hero_Academia_-_international_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 1200,
+        "height": 400,
+        "aspect_ratio": 3.0,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "鲜明中国红/赤焰红",
+        "dominant_color_en": "Vibrant Scarlet Red",
+        "alpha_ratio": 0.649,
+        "dhash": "488e0f0b6d170d0d",
+        "md5": "b254ad1cc06c8c999fce54743b332f7c"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_dominos",
+          "name_zh": "达美乐披萨 Domino's",
+          "distance": 18
+        },
+        {
+          "entity_id": "ip_adventure_time",
+          "name_zh": "探险活宝 Adventure Time",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_van_cleef_arpels",
+          "name_zh": "梵克雅宝 Van Cleef & Arpels",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 21
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_jenny_urquhart",
+      "category": "needs_manual_ref",
+      "v2_domain": "ip",
+      "name_en": "Jenny Urquhart",
+      "name_zh": "Jenny Urquhart 英国插画家",
+      "desc_zh": "英国当代风景与动物插画家 Jenny Urquhart 个人署名与画作版权体系（若无开源官标，建议人工补充参考图）。",
+      "template_ids": [
+        "385_ip_Jenny_Urquhart_prompt"
+      ],
+      "local_path": "",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "needs_manual_ref",
+      "source_url": "",
+      "fetch_ok": false,
+      "error": "no_wiki_candidate_resolved",
+      "visual": {}
+    },
+    {
+      "entity_id": "ip_godzilla",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Godzilla",
+      "name_zh": "哥斯拉 Godzilla",
+      "desc_zh": "东宝特摄怪兽之王《哥斯拉（GODZILLA）》经典锯齿锋利电影字标及背鳍放射光线怪兽剪影。",
+      "template_ids": [
+        "485_ip_godzilla_3"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_godzilla.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/060_godzilla.svg"
+      ],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Godzilla_English_Logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 768,
+        "height": 291,
+        "aspect_ratio": 2.639,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "纯净明亮白",
+        "dominant_color_en": "Pure Crisp White",
+        "alpha_ratio": 0.663,
+        "dhash": "0565759705860616",
+        "md5": "d0037ea4bef665fc1a01463ad488243b"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_novak_djokovic",
+          "name_zh": "诺瓦克·德约科维奇 Novak Djokovic",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_jujutsu_kaisen",
+          "name_zh": "咒术回战 Jujutsu Kaisen",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_my_dress_up_darling",
+          "name_zh": "更衣人偶坠入爱河 My Dress-Up Darling",
+          "distance": 21
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_strawberry_shortcake",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Strawberry Shortcake",
+      "name_zh": "草莓甜心 Strawberry Shortcake",
+      "desc_zh": "经典怀旧动漫玩具形象《草莓甜心（Strawberry Shortcake）》粉红草莓花边字母徽标与戴草莓帽小女孩形象。",
+      "template_ids": [
+        "291_IP_strawberryshortcake"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_strawberry_shortcake.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Strawberry_Shortcake_2021_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 340,
+        "height": 278,
+        "aspect_ratio": 1.223,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "鲜明中国红/赤焰红",
+        "dominant_color_en": "Vibrant Scarlet Red",
+        "alpha_ratio": 0.669,
+        "dhash": "8d16335b3133351d",
+        "md5": "b45ada4bf0f1f0fb65f7cd3ca0033cd5"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_dominos",
+          "name_zh": "达美乐披萨 Domino's",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_apple_watch",
+          "name_zh": "苹果 / Apple Watch",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_ohayou_spank",
+          "name_zh": "早上好！斯潘克（Ohayou! Spank）",
+          "distance": 22
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_rilakkuma",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Rilakkuma",
+      "name_zh": "轻松小熊 Rilakkuma",
+      "desc_zh": "San-X 旗下治愈系卡通形象轻松小熊（Rilakkuma）：棕熊外耳内黄、白肚皮及圆润棕黄日英文标题字标。",
+      "template_ids": [
+        "392_ip_Rilakkuma_prompt"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_rilakkuma.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Rilakkuma_infobox_picture.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 146,
+        "height": 184,
+        "aspect_ratio": 0.793,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "鲜明中国红/赤焰红",
+        "dominant_color_en": "Vibrant Scarlet Red",
+        "alpha_ratio": 1.0,
+        "dhash": "692b35333716074f",
+        "md5": "57fe0abfbdad2954650ecc52097e05c3"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_my_dress_up_darling",
+          "name_zh": "更衣人偶坠入爱河 My Dress-Up Darling",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_budweiser",
+          "name_zh": "百威啤酒 Budweiser",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_twenty_one_pilots",
+          "name_zh": "二十一号飞行员乐队 Twenty One Pilots",
+          "distance": 20
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_trolls",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "DreamWorks Trolls",
+      "name_zh": "魔发精灵 Trolls",
+      "desc_zh": "梦工厂动画系列《魔发精灵（Trolls）》彩色亮片毛绒立体标题徽标与彩色直立爆炸发造型形象。",
+      "template_ids": [
+        "198_IP_Trolls"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_trolls.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_trolls.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Trolls_Logo_3.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 405,
+        "aspect_ratio": 2.37,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "鲜明中国红/赤焰红",
+        "dominant_color_en": "Vibrant Scarlet Red",
+        "alpha_ratio": 0.544,
+        "dhash": "987b322933362969",
+        "md5": "07e8d5a6202b215c0b4ecd9afad0ea54"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_rilakkuma",
+          "name_zh": "轻松小熊 Rilakkuma",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_strawberry_shortcake",
+          "name_zh": "草莓甜心 Strawberry Shortcake",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_paw_patrol",
+          "name_zh": "汪汪队立大功 PAW Patrol",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_dominos",
+          "name_zh": "达美乐披萨 Domino's",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_peanuts",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Peanuts (Snoopy)",
+      "name_zh": "花生漫画 / 史努比 Peanuts",
+      "desc_zh": "查尔斯·舒尔茨经典漫画《花生漫画（PEANUTS）》黄红手绘字体标题及垂耳黑白比格犬史努比（Snoopy）经典轮廓。",
+      "template_ids": [
+        "162_IP_PEANUTS_copy"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_peanuts.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_peanuts.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Peanuts_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 255,
+        "aspect_ratio": 3.765,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "深沉石板灰",
+        "dominant_color_en": "Slate Gray",
+        "alpha_ratio": 0.784,
+        "dhash": "a92ccd0dac6db53d",
+        "md5": "e448faafff044fcef3304c4b0e55e16a"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_dragon_ball",
+          "name_zh": "七龙珠 Dragon Ball",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_disney",
+          "name_zh": "迪士尼 Disney",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_chainsaw_man",
+          "name_zh": "电锯人 Chainsaw Man",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_my_hero_academia",
+          "name_zh": "我的英雄学院 My Hero Academia",
+          "distance": 26
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_disney",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Walt Disney",
+      "name_zh": "迪士尼 Disney",
+      "desc_zh": "华特迪士尼标志性环形花体签名式“Disney”字标及童话城堡拱弧剪影。",
+      "template_ids": [
+        "310_IP_disney"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_disney.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_disney.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/040_disney.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Disney_wordmark.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 404,
+        "aspect_ratio": 2.376,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.307,
+        "dhash": "6b085d69423d2105",
+        "md5": "915e6dd20461c581e51e80f3096cae28"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_bmw",
+          "name_zh": "宝马汽车 BMW",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_dragon_ball",
+          "name_zh": "七龙珠 Dragon Ball",
+          "distance": 24
+        },
+        {
+          "entity_id": "ip_my_hero_academia",
+          "name_zh": "我的英雄学院 My Hero Academia",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_dc_comics",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "DC Comics",
+      "name_zh": "DC 漫画 DC Comics",
+      "desc_zh": "DC 漫画经典圆形双线外环配粗体直角“DC”字母徽标（含 2016/2024 经典圆盾与“bullet”版本）。",
+      "template_ids": [
+        "086_IP_DCCOMICS_HIGHACCURACY"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_dc_comics.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_dc_comics.svg",
+      "existing_datawheel_paths": [
+        "assets/brand_logos/ip_brands_100/043_dc_comics.svg"
+      ],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/DC_Comics_2024.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 960,
+        "aspect_ratio": 1.0,
+        "geometry_zh": "正方形/对称正圆同心圆构型",
+        "geometry_en": "Square / Concentric Circular Geometry",
+        "dominant_color_zh": "深邃海军蓝/藏青",
+        "dominant_color_en": "Deep Navy Blue",
+        "alpha_ratio": 0.795,
+        "dhash": "0f5365cc5c49350f",
+        "md5": "0b9219530022df1499048f23fa0ff6ed"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 14
+        },
+        {
+          "entity_id": "ip_bmw",
+          "name_zh": "宝马汽车 BMW",
+          "distance": 17
+        },
+        {
+          "entity_id": "ip_triumph_motorcycles",
+          "name_zh": "凯旋摩托车 Triumph Motorcycles",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_dragon_ball",
+          "name_zh": "七龙珠 Dragon Ball",
+          "distance": 23
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_steal_a_brainrot",
+      "category": "needs_manual_ref",
+      "v2_domain": "ip",
+      "name_en": "Steal a Brainrot",
+      "name_zh": "Steal a Brainrot（Roblox 游戏）",
+      "desc_zh": "Roblox 热门体验《Steal a Brainrot》游戏标题徽标与代表角色图元。",
+      "template_ids": [
+        "180_IP_STEALABRAINROT"
+      ],
+      "local_path": "",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "needs_manual_ref",
+      "source_url": "",
+      "fetch_ok": false,
+      "error": "manual_ref_required",
+      "visual": {}
+    },
+    {
+      "entity_id": "ip_tokyo_ghoul",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Tokyo Ghoul",
+      "name_zh": "东京喰种 Tokyo Ghoul",
+      "desc_zh": "暗黑奇幻动漫《东京喰种》高对比红黑断裂手写体标题及金木研拉链面罩独眼赫眼形象。",
+      "template_ids": [
+        "014_IP_Tokyoghoul_llm_black"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_tokyo_ghoul.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tokyo_Ghoul_re_logo_replica.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 767,
+        "height": 238,
+        "aspect_ratio": 3.223,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.299,
+        "dhash": "6646444426041692",
+        "md5": "c159b123fa8520106e894a177c273b07"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_bleach",
+          "name_zh": "死神 BLEACH",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_miffy",
+          "name_zh": "米菲兔 Miffy",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_godzilla",
+          "name_zh": "哥斯拉 Godzilla",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_demon_slayer",
+          "name_zh": "鬼灭之刃 Demon Slayer",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_chainsaw_man",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Chainsaw Man",
+      "name_zh": "电锯人 Chainsaw Man",
+      "desc_zh": "藤本树漫画《电锯人（CHAINSAW MAN）》锯齿切割金属红黄配色标题及波奇塔（Pochita）橙色电锯小狗形象。",
+      "template_ids": [
+        "355_chainsawman"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_chainsaw_man.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_chainsaw_man.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Chainsaw_Man_Reze_Arc_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 200,
+        "aspect_ratio": 4.8,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.488,
+        "dhash": "293c6d2595088e8e",
+        "md5": "3c16b8ceec9d27ff693415578347c0a9"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_triumph_international",
+          "name_zh": "黛安芬 Triumph International（内衣服饰）",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_balmain",
+          "name_zh": "巴尔曼 Balmain",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_my_dress_up_darling",
+          "name_zh": "更衣人偶坠入爱河 My Dress-Up Darling",
+          "distance": 23
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_paw_patrol",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "PAW Patrol",
+      "name_zh": "汪汪队立大功 PAW Patrol",
+      "desc_zh": "儿童动画《汪汪队立大功（PAW Patrol）》蓝边金红盾牌造型徽标：顶部印“PAW”及白色狗爪印，下方黄色“PATROL”字带。",
+      "template_ids": [
+        "159_IP_PAWPATROL_COPYRIGHT"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_paw_patrol.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 340,
+        "height": 292,
+        "aspect_ratio": 1.164,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "明媚皇家蓝/天青",
+        "dominant_color_en": "Vibrant Royal Blue",
+        "alpha_ratio": 0.682,
+        "dhash": "0e3737652b170f0f",
+        "md5": "8780387c099ba0eee124aa420a5cc1db"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_ford",
+          "name_zh": "福特汽车 Ford",
+          "distance": 14
+        },
+        {
+          "entity_id": "ip_dominos",
+          "name_zh": "达美乐披萨 Domino's",
+          "distance": 15
+        },
+        {
+          "entity_id": "ip_street_fighter",
+          "name_zh": "街头霸王 Street Fighter",
+          "distance": 15
+        },
+        {
+          "entity_id": "ip_gulf",
+          "name_zh": "海湾石油 Gulf",
+          "distance": 17
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_warhammer",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "Warhammer",
+      "name_zh": "战锤 Warhammer",
+      "desc_zh": "Games Workshop 桌面战棋《战锤（Warhammer / 40K）》哥特金属风铁鹰翼标题徽标与双头鹰天鹰徽（Aquila）。",
+      "template_ids": [
+        "017_IP_Warhammer_llm_black"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_warhammer.png",
+      "raw_svg_path": "",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Warhammer_%28game%29_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 596,
+        "height": 89,
+        "aspect_ratio": 6.697,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "鲜明中国红/赤焰红",
+        "dominant_color_en": "Vibrant Scarlet Red",
+        "alpha_ratio": 0.842,
+        "dhash": "51d1315eb7215031",
+        "md5": "bbe4ca80dd993fff4cafe23dc912b01d"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_dragon_ball",
+          "name_zh": "七龙珠 Dragon Ball",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_slayer",
+          "name_zh": "杀手乐队 Slayer",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_the_new_yorker",
+          "name_zh": "纽约客 The New Yorker",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_my_dress_up_darling",
+      "category": "anime_games_entertainment",
+      "v2_domain": "ip",
+      "name_en": "My Dress-Up Darling",
+      "name_zh": "更衣人偶坠入爱河 My Dress-Up Darling",
+      "desc_zh": "恋爱喜剧动漫《更衣人偶坠入爱河》粉红针线裁缝主题标题字标与女主角喜多川海梦代表性形象。",
+      "template_ids": [
+        "406_ip_my_dress_llm_black"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_my_dress_up_darling.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_my_dress_up_darling.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sono_Bisque_Doll_wa_Koi_o_Suru_anime_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 373,
+        "aspect_ratio": 2.574,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浪漫樱花粉",
+        "dominant_color_en": "Soft Blossom Pink",
+        "alpha_ratio": 0.261,
+        "dhash": "0d092c031b1e061a",
+        "md5": "d186ac14666135f1694738fd72d22270"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_street_fighter",
+          "name_zh": "街头霸王 Street Fighter",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_rilakkuma",
+          "name_zh": "轻松小熊 Rilakkuma",
+          "distance": 19
+        },
+        {
+          "entity_id": "ip_adventure_time",
+          "name_zh": "探险活宝 Adventure Time",
+          "distance": 20
+        },
+        {
+          "entity_id": "ip_godzilla",
+          "name_zh": "哥斯拉 Godzilla",
+          "distance": 21
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_cars_aurelia_ambig",
+      "category": "ambiguous_needs_confirm",
+      "v2_domain": "ip",
+      "name_en": "Cars (Pixar) / Lancia Aurelia (Ambiguous)",
+      "name_zh": "歧义待核：皮克斯《赛车总动员 Cars》/ 蓝旗亚 Aurelia",
+      "desc_zh": "【模板待确认项】已优先采录皮克斯《赛车总动员（Cars）》经典镀铬红底汽车标题徽标；若业务模板实际指向经典汽车 Lancia Aurelia，需再行二次确认。",
+      "template_ids": [
+        "020_IP_cars_aurelia_llm_black"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_cars_aurelia_ambig.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_cars_aurelia_ambig.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cars_Logo_Black.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 650,
+        "aspect_ratio": 1.477,
+        "geometry_zh": "标准 4:3 / 3:2 传统旗帜与徽章比例",
+        "geometry_en": "Classic 3:2 / 4:3 Aspect Ratio",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.466,
+        "dhash": "b25e49310f164d0d",
+        "md5": "46451b0d7de3b0d1c05723d2e52ddc0b"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_my_hero_academia",
+          "name_zh": "我的英雄学院 My Hero Academia",
+          "distance": 21
+        },
+        {
+          "entity_id": "ip_adventure_time",
+          "name_zh": "探险活宝 Adventure Time",
+          "distance": 22
+        },
+        {
+          "entity_id": "ip_evel_knievel",
+          "name_zh": "Evel Knievel 特技车手",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_dav_pilkey",
+          "name_zh": "Dav Pilkey（神探狗狗 / 内裤超人）",
+          "distance": 24
+        }
+      ]
+    },
+    {
+      "entity_id": "ip_spirit_ambig",
+      "category": "ambiguous_needs_confirm",
+      "v2_domain": "ip",
+      "name_en": "Spirit: Stallion of the Cimarron / Spirit Halloween (Ambiguous)",
+      "name_zh": "歧义待核：梦工厂《小马王 Spirit》/ Spirit Halloween",
+      "desc_zh": "【模板待确认项】已优先采录梦工厂动画《小马王（Spirit）》官方标题标识；亦存在美国万圣节零售品牌 Spirit Halloween 同名可能，需结合原样本核对。",
+      "template_ids": [
+        "178_IP_SPIRIT_IMG"
+      ],
+      "local_path": "assets/sch96_ip_supplement/anime_games_entertainment/ip_spirit_ambig.png",
+      "raw_svg_path": "assets/sch96_ip_supplement/raw_svg/ip_spirit_ambig.svg",
+      "existing_datawheel_paths": [],
+      "source_tier": "wikimedia_svg_512",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Spirit_%28franchise%29_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fetch_ok": true,
+      "error": "",
+      "visual": {
+        "width": 960,
+        "height": 527,
+        "aspect_ratio": 1.822,
+        "geometry_zh": "横向宽幅扁平矩形构型",
+        "geometry_en": "Horizontal Widescreen Layout",
+        "dominant_color_zh": "浓郁曜石黑",
+        "dominant_color_en": "Obsidian Black",
+        "alpha_ratio": 0.361,
+        "dhash": "33785c5b15b91d33",
+        "md5": "3ceef4ad827a1fda442a3b09a5b55b61"
+      },
+      "visual_neighbors": [
+        {
+          "entity_id": "ip_the_new_yorker",
+          "name_zh": "纽约客 The New Yorker",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_novak_djokovic",
+          "name_zh": "诺瓦克·德约科维奇 Novak Djokovic",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_hatsune_miku",
+          "name_zh": "初音未来 Hatsune Miku",
+          "distance": 23
+        },
+        {
+          "entity_id": "ip_new_holland",
+          "name_zh": "纽荷兰农机 New Holland",
+          "distance": 25
+        }
+      ]
+    }
+  ]
+}

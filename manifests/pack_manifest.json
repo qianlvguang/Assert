@@ -1,0 +1,64 @@
+{
+  "schema": "sports_ip_supplement_pack_v1",
+  "generated_at": "2026-11-19T10:08:39.878651+00:00",
+  "image_root_prefix": "",
+  "sports": {
+    "leagues_count": 9,
+    "teams_count": 240,
+    "counts_by_league": {
+      "bundesliga": 18,
+      "la_liga": 20,
+      "ligue_1": 18,
+      "mlb": 30,
+      "nba": 30,
+      "ncaa": 20,
+      "nfl": 32,
+      "nhl": 32,
+      "premier_league": 20,
+      "serie_a": 20
+    },
+    "missing_zh_count": 0,
+    "missing_zh_sample": []
+  },
+  "sch96": {
+    "total_templates": 96,
+    "template_status_counts": {
+      "ambiguous_needs_confirm": 2,
+      "generic_unmapped": 4,
+      "needs_manual_ref": 5,
+      "resolved_multi_brand": 1,
+      "resolved_official_logo": 76,
+      "resolved_sports_league": 2,
+      "resolved_sports_ncaa": 6
+    },
+    "resolved_unique_ip_images": 71
+  },
+  "jsonl_rows": {
+    "cpt_sports_crests_supplement": 382,
+    "cpt_sch96_ip_supplement": 87,
+    "cpt_all_supplement": 469,
+    "v2_entities_sports_and_ip_supplement": 81
+  },
+  "duplicate_md5_groups": {},
+  "contact_sheets": [
+    "output/sports_ip_supplement/contact_sheets/contact_sheet_leagues_and_ncaa.jpg",
+    "output/sports_ip_supplement/contact_sheets/contact_sheet_football_epl_laliga_seriea.jpg",
+    "output/sports_ip_supplement/contact_sheets/contact_sheet_football_bundesliga_ligue1.jpg",
+    "output/sports_ip_supplement/contact_sheets/contact_sheet_nba_nfl.jpg",
+    "output/sports_ip_supplement/contact_sheets/contact_sheet_mlb_nhl.jpg",
+    "output/sports_ip_supplement/contact_sheets/contact_sheet_sch96_part1.jpg",
+    "output/sports_ip_supplement/contact_sheets/contact_sheet_sch96_part2.jpg"
+  ],
+  "sha256": {
+    "cpt_sports_crests_supplement.jsonl": "29d8f446f971ec8d7b0fad135ed7842ee805cf0df303371fc96020216c3ff992",
+    "cpt_sch96_ip_supplement.jsonl": "3757d445f959df6d73c636d158fb45751d2da9fb79030d2ba330b8e7ae24dfed",
+    "cpt_all_supplement.jsonl": "6907db20232afe3c64b98e82a62040dbcf22bb46234571bf45cc7e7744124b10",
+    "v2_entities_sports_and_ip_supplement.jsonl": "5ce75392101b51f761c1af7eb5607ca755509444df87982e029cb80b5cf7af51",
+    "sch96_template_coverage.json": "d1a4d308e298c672684cedfcb34a759ce01cec1f4549dc11ae9b0ca2c310cb83"
+  },
+  "bundle_tar": {
+    "path": "output/sports_ip_supplement/sports_ip_supplement_bundle.tar.gz",
+    "bytes": 37853918,
+    "sha256": "6ace6c6c7692090501a433292f1b294ccaf5b52343feae632953939b94182f37"
+  }
+}

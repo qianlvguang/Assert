@@ -1,0 +1,1350 @@
+[
+  {
+    "rank": 1,
+    "template_name": "158_IP_OSTER",
+    "entity_id": "ip_oster",
+    "note": "Oster 小家电",
+    "status": "needs_manual_ref",
+    "name_zh": "奥斯特 Oster（小家电）",
+    "name_en": "Oster",
+    "local_paths": [],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 2,
+    "template_name": "476_ip_ford",
+    "entity_id": "ip_ford",
+    "note": "福特（主模板）",
+    "status": "resolved_official_logo",
+    "name_zh": "福特汽车 Ford",
+    "name_en": "Ford",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_ford.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_ford.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/icons/ford.svg"
+    ]
+  },
+  {
+    "rank": 3,
+    "template_name": "323_JULIUSK9",
+    "entity_id": "ip_julius_k9",
+    "note": "Julius-K9 宠物用品",
+    "status": "resolved_official_logo",
+    "name_zh": "Julius-K9（宠物装备）",
+    "name_en": "Julius-K9",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_julius_k9.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 4,
+    "template_name": "028_IP_ohayou_spank",
+    "entity_id": "ip_ohayou_spank",
+    "note": "おはよう!スパンク（Spank 日漫）",
+    "status": "resolved_official_logo",
+    "name_zh": "早上好！斯潘克（Ohayou! Spank）",
+    "name_en": "Ohayou! Spank",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_ohayou_spank.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 5,
+    "template_name": "381_hemier_league_selfmodel",
+    "entity_id": "sports_premier_league",
+    "note": "英超联赛（模板名拼写变体 hemier_league）",
+    "status": "resolved_sports_league",
+    "name_zh": "英格兰足球超级联赛（英超）",
+    "name_en": "Premier League",
+    "local_paths": [
+      "assets/sports_crests_supplement/leagues/premier_league.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 6,
+    "template_name": "221_IP_bmw",
+    "entity_id": "ip_bmw",
+    "note": "宝马",
+    "status": "resolved_official_logo",
+    "name_zh": "宝马汽车 BMW",
+    "name_en": "BMW",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_bmw.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_bmw.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/icons/bmw.svg"
+    ]
+  },
+  {
+    "rank": 7,
+    "template_name": "311_IP_friends",
+    "entity_id": "ip_friends",
+    "note": "老友记",
+    "status": "resolved_official_logo",
+    "name_zh": "老友记 Friends",
+    "name_en": "Friends",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_friends.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_friends.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 8,
+    "template_name": "197_IP_Triumph",
+    "entity_id": "ip_triumph",
+    "note": "Triumph（同时涵盖摩托与内衣双品牌）",
+    "status": "resolved_multi_brand",
+    "name_zh": "凯旋摩托 Triumph Motorcycles / 黛安芬 Triumph International",
+    "name_en": "Triumph Motorcycles / Triumph International",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_triumph_motorcycles.png",
+      "assets/sch96_ip_supplement/brands/ip_triumph_international.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 9,
+    "template_name": "351_bleach",
+    "entity_id": "ip_bleach",
+    "note": "死神 BLEACH",
+    "status": "resolved_official_logo",
+    "name_zh": "死神 BLEACH",
+    "name_en": "Bleach",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_bleach.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_bleach.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 10,
+    "template_name": "269_IP_metallica",
+    "entity_id": "ip_metallica",
+    "note": "Metallica 乐队",
+    "status": "resolved_official_logo",
+    "name_zh": "金属乐队 Metallica",
+    "name_en": "Metallica",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_metallica.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_metallica.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 11,
+    "template_name": "301_IP_vancleefarpels_test",
+    "entity_id": "ip_van_cleef_arpels",
+    "note": "梵克雅宝",
+    "status": "resolved_official_logo",
+    "name_zh": "梵克雅宝 Van Cleef & Arpels",
+    "name_en": "Van Cleef & Arpels",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_van_cleef_arpels.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_van_cleef_arpels.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 12,
+    "template_name": "289_IP_squishmallows",
+    "entity_id": "ip_squishmallows",
+    "note": "Squishmallows 毛绒玩具",
+    "status": "resolved_official_logo",
+    "name_zh": "Squishmallows 毛绒玩偶",
+    "name_en": "Squishmallows",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_squishmallows.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 13,
+    "template_name": "518_ip_slayer",
+    "entity_id": "ip_slayer",
+    "note": "Slayer 乐队",
+    "status": "resolved_official_logo",
+    "name_zh": "杀手乐队 Slayer",
+    "name_en": "Slayer",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_slayer.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 14,
+    "template_name": "356_champion1103test0511",
+    "entity_id": "ip_champion",
+    "note": "Champion 运动品牌",
+    "status": "resolved_official_logo",
+    "name_zh": "冠军 Champion（运动服饰）",
+    "name_en": "Champion",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_champion.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_champion.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 15,
+    "template_name": "443_ip_balmain",
+    "entity_id": "ip_balmain",
+    "note": "Balmain 巴尔曼",
+    "status": "resolved_official_logo",
+    "name_zh": "巴尔曼 Balmain",
+    "name_en": "Balmain",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_balmain.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_balmain.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/luxury_100/016_balmain.svg"
+    ]
+  },
+  {
+    "rank": 16,
+    "template_name": "283_IP_rezero",
+    "entity_id": "ip_rezero",
+    "note": "Re:从零开始的异世界生活",
+    "status": "resolved_official_logo",
+    "name_zh": "Re:从零开始的异世界生活",
+    "name_en": "Re:Zero - Starting Life in Another World",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_rezero.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_rezero.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 17,
+    "template_name": "235_IP_demonslayer_ceshi_1",
+    "entity_id": "ip_demon_slayer",
+    "note": "鬼灭之刃（测试1）",
+    "status": "resolved_official_logo",
+    "name_zh": "鬼灭之刃 Demon Slayer",
+    "name_en": "Demon Slayer: Kimetsu no Yaiba",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_demon_slayer.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_demon_slayer.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/character_ips/shonen_jump/09_demonslayer_tanjiro_water.png",
+      "assets/character_ips/shonen_jump/11_demonslayer_nezuko.png"
+    ]
+  },
+  {
+    "rank": 18,
+    "template_name": "470_ip_dragonball",
+    "entity_id": "ip_dragon_ball",
+    "note": "七龙珠",
+    "status": "resolved_official_logo",
+    "name_zh": "七龙珠 Dragon Ball",
+    "name_en": "Dragon Ball",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_dragon_ball.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_dragon_ball.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/062_dragon_ball.svg",
+      "assets/character_ips/shonen_jump/01_dragonball_goku.png"
+    ]
+  },
+  {
+    "rank": 19,
+    "template_name": "107_IP_HATSUNEMIKU_V4",
+    "entity_id": "ip_hatsune_miku",
+    "note": "初音未来 V4",
+    "status": "resolved_official_logo",
+    "name_zh": "初音未来 Hatsune Miku",
+    "name_en": "Hatsune Miku",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_hatsune_miku.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_hatsune_miku.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 20,
+    "template_name": "523_ip_streetfighter",
+    "entity_id": "ip_street_fighter",
+    "note": "街头霸王",
+    "status": "resolved_official_logo",
+    "name_zh": "街头霸王 Street Fighter",
+    "name_en": "Street Fighter",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_street_fighter.png"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/025_street_fighter.svg"
+    ]
+  },
+  {
+    "rank": 21,
+    "template_name": "047_IP_APPLE_WATCHBAND",
+    "entity_id": "ip_apple_watch",
+    "note": "苹果 / Apple Watch 表带",
+    "status": "resolved_official_logo",
+    "name_zh": "苹果 / Apple Watch",
+    "name_en": "Apple / Apple Watch",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_apple_watch.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_apple_watch.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/icons/apple.svg"
+    ]
+  },
+  {
+    "rank": 22,
+    "template_name": "288_IP_sevendeadlysins",
+    "entity_id": "ip_seven_deadly_sins",
+    "note": "七大罪",
+    "status": "resolved_official_logo",
+    "name_zh": "七大罪 The Seven Deadly Sins",
+    "name_en": "The Seven Deadly Sins",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_seven_deadly_sins.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 23,
+    "template_name": "191_IP_TOMandJERRY",
+    "entity_id": "ip_tom_and_jerry",
+    "note": "猫和老鼠",
+    "status": "resolved_official_logo",
+    "name_zh": "猫和老鼠 Tom and Jerry",
+    "name_en": "Tom and Jerry",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_tom_and_jerry.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_tom_and_jerry.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 24,
+    "template_name": "232_IP_davpilkey_test",
+    "entity_id": "ip_dav_pilkey",
+    "note": "Dav Pilkey（神探狗狗/内裤超人）",
+    "status": "resolved_official_logo",
+    "name_zh": "Dav Pilkey（神探狗狗 / 内裤超人）",
+    "name_en": "Dav Pilkey (Dog Man / Captain Underpants)",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_dav_pilkey.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 25,
+    "template_name": "138_IP_MIFFYRABBIT_HIGHACCURACY",
+    "entity_id": "ip_miffy",
+    "note": "米菲兔 Miffy",
+    "status": "resolved_official_logo",
+    "name_zh": "米菲兔 Miffy",
+    "name_en": "Miffy",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_miffy.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 26,
+    "template_name": "343_SUPERMARIO_WORD",
+    "entity_id": "ip_super_mario",
+    "note": "超级马力欧",
+    "status": "resolved_official_logo",
+    "name_zh": "超级马力欧 Super Mario",
+    "name_en": "Super Mario",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_super_mario.png"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/020_super_mario.svg"
+    ]
+  },
+  {
+    "rank": 27,
+    "template_name": "294_IP_tintin",
+    "entity_id": "ip_tintin",
+    "note": "丁丁历险记",
+    "status": "resolved_official_logo",
+    "name_zh": "丁丁历险记 Tintin",
+    "name_en": "The Adventures of Tintin",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_tintin.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 28,
+    "template_name": "473_ip_duke_excepmtion",
+    "entity_id": "sports_ncaa_duke",
+    "note": "杜克大学（例外模板）",
+    "status": "resolved_sports_ncaa",
+    "name_zh": "杜克大学蓝魔队",
+    "name_en": "Duke Blue Devils",
+    "local_paths": [
+      "assets/sports_crests_supplement/ncaa/duke_150.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 29,
+    "template_name": "035_IP_ADVENTURETIME",
+    "entity_id": "ip_adventure_time",
+    "note": "探险活宝",
+    "status": "resolved_official_logo",
+    "name_zh": "探险活宝 Adventure Time",
+    "name_en": "Adventure Time",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_adventure_time.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 30,
+    "template_name": "305_IP_zigzag",
+    "entity_id": "ip_zig_zag",
+    "note": "Zig-Zag 卷烟纸品牌",
+    "status": "resolved_official_logo",
+    "name_zh": "Zig-Zag 品牌标识",
+    "name_en": "Zig-Zag",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_zig_zag.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 31,
+    "template_name": "509_ip_nirvana2",
+    "entity_id": "ip_nirvana",
+    "note": "涅槃乐队 Nirvana（v2）",
+    "status": "resolved_official_logo",
+    "name_zh": "涅槃乐队 Nirvana",
+    "name_en": "Nirvana",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_nirvana.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_nirvana.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 32,
+    "template_name": "090_IP_DOMINOS",
+    "entity_id": "ip_dominos",
+    "note": "达美乐披萨 Domino's",
+    "status": "resolved_official_logo",
+    "name_zh": "达美乐披萨 Domino's",
+    "name_en": "Domino's Pizza",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_dominos.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_dominos.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 33,
+    "template_name": "508_ip_nirvana",
+    "entity_id": "ip_nirvana",
+    "note": "涅槃乐队 Nirvana",
+    "status": "resolved_official_logo",
+    "name_zh": "涅槃乐队 Nirvana",
+    "name_en": "Nirvana",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_nirvana.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_nirvana.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 34,
+    "template_name": "389_ip_NEW_HOLLAND",
+    "entity_id": "ip_new_holland",
+    "note": "纽荷兰农机 New Holland",
+    "status": "resolved_official_logo",
+    "name_zh": "纽荷兰农机 New Holland",
+    "name_en": "New Holland Agriculture",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_new_holland.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 35,
+    "template_name": "064_IP_BP",
+    "entity_id": "ip_bp",
+    "note": "英国石油 BP",
+    "status": "resolved_official_logo",
+    "name_zh": "英国石油 BP",
+    "name_en": "BP",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_bp.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_bp.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 36,
+    "template_name": "263_IP_mandms",
+    "entity_id": "ip_mms",
+    "note": "M&M's 巧克力豆",
+    "status": "resolved_official_logo",
+    "name_zh": "M&M's 巧克力豆",
+    "name_en": "M&M's",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_mms.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_mms.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 37,
+    "template_name": "285_IP_rusty",
+    "entity_id": "ip_rusty",
+    "note": "Rusty 冲浪服饰（R Dot 标）",
+    "status": "needs_manual_ref",
+    "name_zh": "Rusty 冲浪服饰（R Dot）",
+    "name_en": "Rusty",
+    "local_paths": [],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 38,
+    "template_name": "182_IP_SUZUKI",
+    "entity_id": "ip_suzuki",
+    "note": "铃木 Suzuki",
+    "status": "resolved_official_logo",
+    "name_zh": "铃木汽车/摩托 Suzuki",
+    "name_en": "Suzuki",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_suzuki.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_suzuki.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/icons/suzuki.svg"
+    ]
+  },
+  {
+    "rank": 39,
+    "template_name": "068_IP_Budweiser",
+    "entity_id": "ip_budweiser",
+    "note": "百威啤酒 Budweiser",
+    "status": "resolved_official_logo",
+    "name_zh": "百威啤酒 Budweiser",
+    "name_en": "Budweiser",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_budweiser.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_budweiser.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 40,
+    "template_name": "020_IP_cars_aurelia_llm_black",
+    "entity_id": "ip_cars_aurelia_ambig",
+    "note": "歧义待确认：皮克斯《赛车总动员》/ 蓝旗亚 Aurelia",
+    "status": "ambiguous_needs_confirm",
+    "name_zh": "歧义待核：皮克斯《赛车总动员 Cars》/ 蓝旗亚 Aurelia",
+    "name_en": "Cars (Pixar) / Lancia Aurelia (Ambiguous)",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_cars_aurelia_ambig.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_cars_aurelia_ambig.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 41,
+    "template_name": "441_ip_badcutebunny",
+    "entity_id": "ip_badcutebunny_manual",
+    "note": "经查无官方统一商标“badcutebunny”；多为电商贴纸泛词或与歌手 Bad Bunny 混淆，禁止臆测抓取。",
+    "status": "needs_manual_ref",
+    "name_zh": "待人工核对：badcutebunny（非标准注册 IP 词或待核对 Bad Bunny）",
+    "name_en": "badcutebunny (Unverified E-Commerce Keyword)",
+    "local_paths": [],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 42,
+    "template_name": "478_ip_ford_copy",
+    "entity_id": "ip_ford",
+    "note": "福特（copy 变体）",
+    "status": "resolved_official_logo",
+    "name_zh": "福特汽车 Ford",
+    "name_en": "Ford",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_ford.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_ford.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/icons/ford.svg"
+    ]
+  },
+  {
+    "rank": 43,
+    "template_name": "409_ip_onepiece",
+    "entity_id": "ip_one_piece",
+    "note": "海贼王 / 航海王",
+    "status": "resolved_official_logo",
+    "name_zh": "海贼王 One Piece",
+    "name_en": "One Piece",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_one_piece.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_one_piece.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/character_ips/shonen_jump/02_onepiece_luffy.png",
+      "assets/character_ips/shonen_jump/05_onepiece_zoro.png"
+    ]
+  },
+  {
+    "rank": 44,
+    "template_name": "122_IP_JUJUTSUKAISEN",
+    "entity_id": "ip_jujutsu_kaisen",
+    "note": "咒术回战",
+    "status": "resolved_official_logo",
+    "name_zh": "咒术回战 Jujutsu Kaisen",
+    "name_en": "Jujutsu Kaisen",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_jujutsu_kaisen.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_jujutsu_kaisen.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 45,
+    "template_name": "195_IP_TheSecretLifeofPets",
+    "entity_id": "ip_secret_life_of_pets",
+    "note": "爱宠大机密",
+    "status": "resolved_official_logo",
+    "name_zh": "爱宠大机密 The Secret Life of Pets",
+    "name_en": "The Secret Life of Pets",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_secret_life_of_pets.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_secret_life_of_pets.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 46,
+    "template_name": "522_ip_startrek",
+    "entity_id": "ip_star_trek",
+    "note": "星际迷航",
+    "status": "resolved_official_logo",
+    "name_zh": "星际迷航 Star Trek",
+    "name_en": "Star Trek",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_star_trek.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_star_trek.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/091_star_trek.svg",
+      "assets/brand_logos/icons/startrek.svg"
+    ]
+  },
+  {
+    "rank": 47,
+    "template_name": "412_ip_ralphlauren",
+    "entity_id": "ip_ralph_lauren",
+    "note": "拉夫劳伦 Ralph Lauren",
+    "status": "resolved_official_logo",
+    "name_zh": "拉夫劳伦 Ralph Lauren",
+    "name_en": "Ralph Lauren",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_ralph_lauren.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_ralph_lauren.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/luxury_100/026_ralph_lauren.svg"
+    ]
+  },
+  {
+    "rank": 48,
+    "template_name": "187_IP_THESIMPSONver2",
+    "entity_id": "ip_the_simpsons",
+    "note": "辛普森一家",
+    "status": "resolved_official_logo",
+    "name_zh": "辛普森一家 The Simpsons",
+    "name_en": "The Simpsons",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_the_simpsons.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_the_simpsons.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/093_the_simpsons.svg"
+    ]
+  },
+  {
+    "rank": 49,
+    "template_name": "202_IP_UGA_1",
+    "entity_id": "sports_ncaa_georgia",
+    "note": "佐治亚大学（UGA）",
+    "status": "resolved_sports_ncaa",
+    "name_zh": "佐治亚大学斗牛犬队（UGA）",
+    "name_en": "Georgia Bulldogs",
+    "local_paths": [
+      "assets/sports_crests_supplement/ncaa/georgia_61.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 50,
+    "template_name": "096_IP_FALLOUT",
+    "entity_id": "ip_fallout",
+    "note": "辐射 Fallout",
+    "status": "resolved_official_logo",
+    "name_zh": "辐射 Fallout",
+    "name_en": "Fallout",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_fallout.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_fallout.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/038_fallout.svg"
+    ]
+  },
+  {
+    "rank": 51,
+    "template_name": "186_IP_THENEWYORKER_V1",
+    "entity_id": "ip_the_new_yorker",
+    "note": "纽约客杂志 The New Yorker",
+    "status": "resolved_official_logo",
+    "name_zh": "纽约客 The New Yorker",
+    "name_en": "The New Yorker",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_the_new_yorker.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_the_new_yorker.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 52,
+    "template_name": "145_IP_MYHEROACADEMIA",
+    "entity_id": "ip_my_hero_academia",
+    "note": "我的英雄学院",
+    "status": "resolved_official_logo",
+    "name_zh": "我的英雄学院 My Hero Academia",
+    "name_en": "My Hero Academia",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_my_hero_academia.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 53,
+    "template_name": "317_IP",
+    "entity_id": "ip_generic_317",
+    "note": "模板名仅含编号无实体名称，需人工从业务样本库反查对应 IP 后再补采。",
+    "status": "generic_unmapped",
+    "name_zh": "未标注核心名（仅模板编号 317_IP）",
+    "name_en": "317_IP (Numeric Template ID Only)",
+    "local_paths": [],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 54,
+    "template_name": "151_IP_NBA_Positive",
+    "entity_id": "sports_nba",
+    "note": "NBA 联赛",
+    "status": "resolved_sports_league",
+    "name_zh": "美国职业篮球联赛（NBA）",
+    "name_en": "NBA",
+    "local_paths": [
+      "assets/sports_crests_supplement/leagues/nba.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 55,
+    "template_name": "298_IP_ugg_patent",
+    "entity_id": "ip_ugg",
+    "note": "UGG 品牌",
+    "status": "resolved_official_logo",
+    "name_zh": "UGG 雪地靴品牌",
+    "name_en": "UGG",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_ugg.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_ugg.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 56,
+    "template_name": "385_ip_Jenny_Urquhart_prompt",
+    "entity_id": "ip_jenny_urquhart",
+    "note": "Jenny Urquhart 英国插画家",
+    "status": "needs_manual_ref",
+    "name_zh": "Jenny Urquhart 英国插画家",
+    "name_en": "Jenny Urquhart",
+    "local_paths": [],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 57,
+    "template_name": "056_IP_BEYONCE",
+    "entity_id": "ip_beyonce",
+    "note": "碧昂丝 Beyoncé",
+    "status": "resolved_official_logo",
+    "name_zh": "碧昂丝 Beyoncé",
+    "name_en": "Beyoncé",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_beyonce.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_beyonce.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 58,
+    "template_name": "485_ip_godzilla_3",
+    "entity_id": "ip_godzilla",
+    "note": "哥斯拉",
+    "status": "resolved_official_logo",
+    "name_zh": "哥斯拉 Godzilla",
+    "name_en": "Godzilla",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_godzilla.png"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/060_godzilla.svg"
+    ]
+  },
+  {
+    "rank": 59,
+    "template_name": "291_IP_strawberryshortcake",
+    "entity_id": "ip_strawberry_shortcake",
+    "note": "草莓甜心 Strawberry Shortcake",
+    "status": "resolved_official_logo",
+    "name_zh": "草莓甜心 Strawberry Shortcake",
+    "name_en": "Strawberry Shortcake",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_strawberry_shortcake.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 60,
+    "template_name": "237_IP_demonslayer_huawen",
+    "entity_id": "ip_demon_slayer",
+    "note": "鬼灭之刃（花纹变体）",
+    "status": "resolved_official_logo",
+    "name_zh": "鬼灭之刃 Demon Slayer",
+    "name_en": "Demon Slayer: Kimetsu no Yaiba",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_demon_slayer.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_demon_slayer.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/character_ips/shonen_jump/09_demonslayer_tanjiro_water.png",
+      "assets/character_ips/shonen_jump/11_demonslayer_nezuko.png"
+    ]
+  },
+  {
+    "rank": 61,
+    "template_name": "471_ip_duke",
+    "entity_id": "sports_ncaa_duke",
+    "note": "杜克大学",
+    "status": "resolved_sports_ncaa",
+    "name_zh": "杜克大学蓝魔队",
+    "name_en": "Duke Blue Devils",
+    "local_paths": [
+      "assets/sports_crests_supplement/ncaa/duke_150.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 62,
+    "template_name": "475_ip_florida",
+    "entity_id": "sports_ncaa_florida",
+    "note": "佛罗里达大学（Gators）",
+    "status": "resolved_sports_ncaa",
+    "name_zh": "佛罗里达大学短吻鳄队",
+    "name_en": "Florida Gators",
+    "local_paths": [
+      "assets/sports_crests_supplement/ncaa/florida_57.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 63,
+    "template_name": "125_IP_LOEWE",
+    "entity_id": "ip_loewe",
+    "note": "罗意威 LOEWE",
+    "status": "resolved_official_logo",
+    "name_zh": "罗意威 LOEWE",
+    "name_en": "Loewe",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_loewe.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_loewe.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/luxury_100/018_loewe.svg"
+    ]
+  },
+  {
+    "rank": 64,
+    "template_name": "486_ip_gulf",
+    "entity_id": "ip_gulf",
+    "note": "海湾石油 Gulf",
+    "status": "resolved_official_logo",
+    "name_zh": "海湾石油 Gulf",
+    "name_en": "Gulf Oil",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_gulf.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_gulf.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 65,
+    "template_name": "392_ip_Rilakkuma_prompt",
+    "entity_id": "ip_rilakkuma",
+    "note": "轻松小熊 Rilakkuma",
+    "status": "resolved_official_logo",
+    "name_zh": "轻松小熊 Rilakkuma",
+    "name_en": "Rilakkuma",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_rilakkuma.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 66,
+    "template_name": "215_IP_atari",
+    "entity_id": "ip_atari",
+    "note": "雅达利 Atari",
+    "status": "resolved_official_logo",
+    "name_zh": "雅达利 Atari",
+    "name_en": "Atari",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_atari.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_atari.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/005_atari.svg",
+      "assets/brand_logos/icons/atari.svg"
+    ]
+  },
+  {
+    "rank": 67,
+    "template_name": "198_IP_Trolls",
+    "entity_id": "ip_trolls",
+    "note": "梦工厂魔发精灵 Trolls",
+    "status": "resolved_official_logo",
+    "name_zh": "魔发精灵 Trolls",
+    "name_en": "DreamWorks Trolls",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_trolls.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_trolls.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 68,
+    "template_name": "162_IP_PEANUTS_copy",
+    "entity_id": "ip_peanuts",
+    "note": "花生漫画 / 史努比 Peanuts",
+    "status": "resolved_official_logo",
+    "name_zh": "花生漫画 / 史努比 Peanuts",
+    "name_en": "Peanuts (Snoopy)",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_peanuts.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_peanuts.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 69,
+    "template_name": "199_IP_TwentyOnePilots",
+    "entity_id": "ip_twenty_one_pilots",
+    "note": "二十一号飞行员乐队",
+    "status": "resolved_official_logo",
+    "name_zh": "二十一号飞行员乐队 Twenty One Pilots",
+    "name_en": "Twenty One Pilots",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_twenty_one_pilots.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_twenty_one_pilots.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 70,
+    "template_name": "261_IP_louisvuitton",
+    "entity_id": "ip_louis_vuitton",
+    "note": "路易威登 Louis Vuitton",
+    "status": "resolved_official_logo",
+    "name_zh": "路易威登 Louis Vuitton",
+    "name_en": "Louis Vuitton",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_louis_vuitton.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_louis_vuitton.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/luxury_100/003_louis_vuitton.svg"
+    ]
+  },
+  {
+    "rank": 71,
+    "template_name": "310_IP_disney",
+    "entity_id": "ip_disney",
+    "note": "迪士尼 Disney",
+    "status": "resolved_official_logo",
+    "name_zh": "迪士尼 Disney",
+    "name_en": "Walt Disney",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_disney.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_disney.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/040_disney.svg"
+    ]
+  },
+  {
+    "rank": 72,
+    "template_name": "234_IP_demonslayer_ceshi",
+    "entity_id": "ip_demon_slayer",
+    "note": "鬼灭之刃（测试）",
+    "status": "resolved_official_logo",
+    "name_zh": "鬼灭之刃 Demon Slayer",
+    "name_en": "Demon Slayer: Kimetsu no Yaiba",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_demon_slayer.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_demon_slayer.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/character_ips/shonen_jump/09_demonslayer_tanjiro_water.png",
+      "assets/character_ips/shonen_jump/11_demonslayer_nezuko.png"
+    ]
+  },
+  {
+    "rank": 73,
+    "template_name": "086_IP_DCCOMICS_HIGHACCURACY",
+    "entity_id": "ip_dc_comics",
+    "note": "DC 漫画",
+    "status": "resolved_official_logo",
+    "name_zh": "DC 漫画 DC Comics",
+    "name_en": "DC Comics",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_dc_comics.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_dc_comics.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/043_dc_comics.svg"
+    ]
+  },
+  {
+    "rank": 74,
+    "template_name": "400_ip_dragonball",
+    "entity_id": "ip_dragon_ball",
+    "note": "七龙珠（二号模板）",
+    "status": "resolved_official_logo",
+    "name_zh": "七龙珠 Dragon Ball",
+    "name_en": "Dragon Ball",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_dragon_ball.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_dragon_ball.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/ip_brands_100/062_dragon_ball.svg",
+      "assets/character_ips/shonen_jump/01_dragonball_goku.png"
+    ]
+  },
+  {
+    "rank": 75,
+    "template_name": "444_ip_band",
+    "entity_id": "ip_generic_band",
+    "note": "通用乐队审核类目模板，非单一官标。",
+    "status": "generic_unmapped",
+    "name_zh": "泛化类目模板（乐队集合，无指定唯一实体）",
+    "name_en": "444_ip_band (Generic Band Category)",
+    "local_paths": [],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 76,
+    "template_name": "180_IP_STEALABRAINROT",
+    "entity_id": "ip_steal_a_brainrot",
+    "note": "Steal a Brainrot（Roblox 热门游戏）",
+    "status": "needs_manual_ref",
+    "name_zh": "Steal a Brainrot（Roblox 游戏）",
+    "name_en": "Steal a Brainrot",
+    "local_paths": [],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 77,
+    "template_name": "014_IP_Tokyoghoul_llm_black",
+    "entity_id": "ip_tokyo_ghoul",
+    "note": "东京喰种",
+    "status": "resolved_official_logo",
+    "name_zh": "东京喰种 Tokyo Ghoul",
+    "name_en": "Tokyo Ghoul",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_tokyo_ghoul.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 78,
+    "template_name": "442_ip_ball",
+    "entity_id": "ip_generic_ball",
+    "note": "通用球类审核类目模板，非单一官标。",
+    "status": "generic_unmapped",
+    "name_zh": "泛化类目模板（球类集合，无指定唯一实体）",
+    "name_en": "442_ip_ball (Generic Ball / Sports Category)",
+    "local_paths": [],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 79,
+    "template_name": "103_IP_HATSUNEMIKU1103",
+    "entity_id": "ip_hatsune_miku",
+    "note": "初音未来（1103）",
+    "status": "resolved_official_logo",
+    "name_zh": "初音未来 Hatsune Miku",
+    "name_en": "Hatsune Miku",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_hatsune_miku.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_hatsune_miku.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 80,
+    "template_name": "002_AUDIselfmodel",
+    "entity_id": "ip_audi",
+    "note": "奥迪 Audi",
+    "status": "resolved_official_logo",
+    "name_zh": "奥迪汽车 Audi",
+    "name_en": "Audi",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_audi.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_audi.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/icons/audi.svg"
+    ]
+  },
+  {
+    "rank": 81,
+    "template_name": "244_IP_evelknievel",
+    "entity_id": "ip_evel_knievel",
+    "note": "Evel Knievel 特技车手",
+    "status": "resolved_official_logo",
+    "name_zh": "Evel Knievel 特技车手",
+    "name_en": "Evel Knievel",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_evel_knievel.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 82,
+    "template_name": "226_IP_costadelmar_COSTA",
+    "entity_id": "ip_costa_del_mar",
+    "note": "Costa Del Mar 太阳镜",
+    "status": "resolved_official_logo",
+    "name_zh": "Costa Del Mar 偏光镜",
+    "name_en": "Costa Del Mar",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_costa_del_mar.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 83,
+    "template_name": "355_chainsawman",
+    "entity_id": "ip_chainsaw_man",
+    "note": "电锯人 Chainsaw Man",
+    "status": "resolved_official_logo",
+    "name_zh": "电锯人 Chainsaw Man",
+    "name_en": "Chainsaw Man",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_chainsaw_man.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_chainsaw_man.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 84,
+    "template_name": "178_IP_SPIRIT_IMG",
+    "entity_id": "ip_spirit_ambig",
+    "note": "歧义待确认：梦工厂《小马王 Spirit》/ Spirit Halloween",
+    "status": "ambiguous_needs_confirm",
+    "name_zh": "歧义待核：梦工厂《小马王 Spirit》/ Spirit Halloween",
+    "name_en": "Spirit: Stallion of the Cimarron / Spirit Halloween (Ambiguous)",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_spirit_ambig.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_spirit_ambig.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 85,
+    "template_name": "479_ip_ford_mat",
+    "entity_id": "ip_ford",
+    "note": "福特（mat 变体）",
+    "status": "resolved_official_logo",
+    "name_zh": "福特汽车 Ford",
+    "name_en": "Ford",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_ford.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_ford.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/icons/ford.svg"
+    ]
+  },
+  {
+    "rank": 86,
+    "template_name": "220_IP_beyonce_strategy",
+    "entity_id": "ip_beyonce",
+    "note": "碧昂丝（策略变体）",
+    "status": "resolved_official_logo",
+    "name_zh": "碧昂丝 Beyoncé",
+    "name_en": "Beyoncé",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_beyonce.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_beyonce.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 87,
+    "template_name": "159_IP_PAWPATROL_COPYRIGHT",
+    "entity_id": "ip_paw_patrol",
+    "note": "汪汪队立大功 PAW Patrol",
+    "status": "resolved_official_logo",
+    "name_zh": "汪汪队立大功 PAW Patrol",
+    "name_en": "PAW Patrol",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_paw_patrol.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 88,
+    "template_name": "331_NOVAK_DJOKOVICselfmodel",
+    "entity_id": "ip_novak_djokovic",
+    "note": "诺瓦克·德约科维奇（ND 个人徽标）",
+    "status": "resolved_official_logo",
+    "name_zh": "诺瓦克·德约科维奇 Novak Djokovic",
+    "name_en": "Novak Djokovic",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_novak_djokovic.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_novak_djokovic.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 89,
+    "template_name": "017_IP_Warhammer_llm_black",
+    "entity_id": "ip_warhammer",
+    "note": "战锤 Warhammer",
+    "status": "resolved_official_logo",
+    "name_zh": "战锤 Warhammer",
+    "name_en": "Warhammer",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_warhammer.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 90,
+    "template_name": "406_ip_my_dress_llm_black",
+    "entity_id": "ip_my_dress_up_darling",
+    "note": "更衣人偶坠入爱河",
+    "status": "resolved_official_logo",
+    "name_zh": "更衣人偶坠入爱河 My Dress-Up Darling",
+    "name_en": "My Dress-Up Darling",
+    "local_paths": [
+      "assets/sch96_ip_supplement/anime_games_entertainment/ip_my_dress_up_darling.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_my_dress_up_darling.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 91,
+    "template_name": "252_IP_gunsnroses_strategy",
+    "entity_id": "ip_guns_n_roses",
+    "note": "枪炮与玫瑰乐队 Guns N' Roses",
+    "status": "resolved_official_logo",
+    "name_zh": "枪炮与玫瑰乐队 Guns N' Roses",
+    "name_en": "Guns N' Roses",
+    "local_paths": [
+      "assets/sch96_ip_supplement/music_celebrity_sports/ip_guns_n_roses.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 92,
+    "template_name": "480_ip_ford_prompt",
+    "entity_id": "ip_ford",
+    "note": "福特（prompt 变体）",
+    "status": "resolved_official_logo",
+    "name_zh": "福特汽车 Ford",
+    "name_en": "Ford",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_ford.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_ford.svg"
+    ],
+    "existing_datawheel_paths": [
+      "assets/brand_logos/icons/ford.svg"
+    ]
+  },
+  {
+    "rank": 93,
+    "template_name": "377_guess_test",
+    "entity_id": "ip_guess",
+    "note": "GUESS 时尚品牌",
+    "status": "resolved_official_logo",
+    "name_zh": "GUESS 时装品牌",
+    "name_en": "GUESS",
+    "local_paths": [
+      "assets/sch96_ip_supplement/brands/ip_guess.png",
+      "assets/sch96_ip_supplement/raw_svg/ip_guess.svg"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 94,
+    "template_name": "511_ip_oklahoma",
+    "entity_id": "sports_ncaa_oklahoma",
+    "note": "俄克拉荷马大学",
+    "status": "resolved_sports_ncaa",
+    "name_zh": "俄克拉荷马大学捷足者队",
+    "name_en": "Oklahoma Sooners",
+    "local_paths": [
+      "assets/sports_crests_supplement/ncaa/oklahoma_201.png"
+    ],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 95,
+    "template_name": "438_ip_artist",
+    "entity_id": "ip_generic_artist",
+    "note": "通用艺术家/插画家审核类目模板，非单一官标。",
+    "status": "generic_unmapped",
+    "name_zh": "泛化类目模板（艺术家集合，无指定唯一实体）",
+    "name_en": "438_ip_artist (Generic Artist Category)",
+    "local_paths": [],
+    "existing_datawheel_paths": []
+  },
+  {
+    "rank": 96,
+    "template_name": "126_IP_LibertyUniversity",
+    "entity_id": "sports_ncaa_liberty",
+    "note": "自由大学",
+    "status": "resolved_sports_ncaa",
+    "name_zh": "自由大学火焰队",
+    "name_en": "Liberty Flames",
+    "local_paths": [
+      "assets/sports_crests_supplement/ncaa/liberty_2335.png"
+    ],
+    "existing_datawheel_paths": []
+  }
+]
