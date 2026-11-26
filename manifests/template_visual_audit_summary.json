@@ -1,0 +1,28 @@
+{
+  "schema": "assert_template_visual_audit_summary_v1",
+  "generated_at": "2026-11-26T11:30:00+08:00",
+  "total_entity_specific_families": 307,
+  "visual_audit_counts": {
+    "approved_visual_reference": 204,
+    "manual_asset_required": 31,
+    "approved_with_enrichment_note": 63,
+    "rejected_mismatch_purged": 9
+  },
+  "visually_approved_families": 267,
+  "visually_approved_rate": 0.8697,
+  "rejected_asset_paths": {
+    "sch96_ip_supplement/brands/ip_triumph_international.png": "错配：内衣品牌 Triumph International，不符合 IP_Triumph 摩托车条款",
+    "sch96_ip_supplement/music_celebrity_sports/ip_evel_knievel.png": "违例：博物馆宣传徽标而非权利人本体参考图（已改用 Wiki 本人档案照）"
+  },
+  "rejected_wiki_slugs": {
+    "bigfoot": "错配清除：命中 1967 年 Patterson-Gimlin 森林模糊影照，非品牌/文创视觉标识",
+    "cookies": "错配清除：命中 Craig's Cookies 烘焙店标，非目标潮牌 Cookies",
+    "glassangelofficial": "错配清除：命中普通圣诞玻璃天使挂件，非品牌官方参考图",
+    "meitanteikonan": "错配清除：二次替换命中 ABS-CBN 电视台标，非《名侦探柯南》作品图标",
+    "oster": "错配清除：二次替换命中奥地利能源协会标，非厨具品牌 Oster",
+    "purple_innovation": "错配清除：命中 Chestertons 房产机构紫色标，非网格凝胶枕专利",
+    "purplebrand": "错配清除：命中 Upstage 标而非服装品牌 PURPLE BRAND",
+    "totto": "错配清除：命中日剧《小豆豆》标题标，非箱包品牌 TOTTO",
+    "zipit": "错配清除：命中早期 Linux 掌机 Zipit，非单拉链包 Zipit 专利结构"
+  }
+}

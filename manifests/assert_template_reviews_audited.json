@@ -1,0 +1,1767 @@
+{
+  "schema": "assert_template_review_v1",
+  "exported_at": "2026-11-26T11:30:00+08:00",
+  "audited_by": "assert_automated_and_visual_qa_audit",
+  "reviews": {
+    "511": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #27 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "abba": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "acdcllm": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "adanola": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #301 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。；同时参考图待补（Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "adventuretime": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "agv": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ajsnifty": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "alabama": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "alemannia_aachen": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #334 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "alexandermcqueen": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（已从设计师肖像替换为 Alexander McQueen 官方字标 SVG）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "all_blacks": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #345 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ami": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #32 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "amiri": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "amongus": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #16 存在：JSON契约损坏(如jason/ture/default形式/括号)、错别字或逻辑矛盾。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "angry_birds": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "annabelle": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #33 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "anpanman": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "apf": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "apple": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；已有苹果剪影 Logo，但 IP_APPLE_WATCHBAND 需官方各代 Apple Watch 表带结构对比图。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "arizona_university": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：存在主观逃生舱兜底描述。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "artist": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。 规则强化提示：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "asmodee": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "atari": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #175 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "attack_on_titan": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #39 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "audi": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_audit_feedback_optimizer": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #352 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_black_word_risk_reviewer": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #277 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_brand_alliance": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #358 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_brand_collab": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #359 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_crawlplatform_anti_risk": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #292 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_identifying_fake_brands": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A4_auxiliary_governance_workflow，按路线 A4_text_legal_sft_budgeted 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_invoices": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A4_auxiliary_governance_workflow，按路线 A4_doc_screenshot_sft 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_logos_review_verification_text": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A4_auxiliary_governance_workflow，按路线 A4_text_legal_sft_budgeted 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_tro_brandname_alignment": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #455 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_tro_brandname_rec": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #457 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "aux_tro_warning_case_process": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A4_auxiliary_governance_workflow，按路线 A4_text_legal_sft_budgeted 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "badcutebunny": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #353 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。；同时参考图待补（Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "balenciaga_1103trademark": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #40 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "balmain": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #355 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "banana_republic": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "band_music_general": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。 规则强化提示：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "bebe": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #41 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "beck_s": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "bench": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "benchmade": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "bensonboone": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #276 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "bentley": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "berserk": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #43 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "beyonce": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "bigfoot": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #45 存在：JSON契约损坏(如jason/ture/default形式/括号)。；同时参考图待补（错配清除：命中 1967 年 Patterson-Gimlin 森林模糊影照，非品牌/文创视觉标识）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "billionaire_boys_club": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #47 存在：JSON契约损坏(如jason/ture/default形式/括号)、关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "bleach": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "bmw": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #178 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "bp": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "brand": {
+      "status": "quarantined",
+      "note": "【Q2 跨实体错贴隔离】disposition=quarantine_paste_bug（标题与正文权利实体矛盾，须人工修复模板后才能使用）；Pro 阶段应定性为 fix_template_prompt_bug（不更新模型权重），人工修订后再启用。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "brand_gemini_general": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #362 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "brand_goods_consistent_multi_img": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #366 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "brawl_stars": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #280 存在：存在未填充空占位符、关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "budweiser": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "buick": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "burberry": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "butterfly": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #54 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "calvin_klein": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #55 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cars_automotive_general": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #298 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cbf": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "celine": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #369 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "chainsawman": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #281 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "champion": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "chanel_cc": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #57 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "chevrolet": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "chloe": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "clash_royale": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #371 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cluster_gemini": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #375 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cobra": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cohiba": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #289 存在：关联实体rel子串误绑。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "converseallstar": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #290 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cookie_run": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cookies": {
+      "status": "needs_asset",
+      "note": "【错配已清除·待补图】模板正文健康；错配清除：命中 Craig's Cookies 烘焙店标，非目标潮牌 Cookies。 优化建议：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "coraline": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #60 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "corona": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "costadelmar_costa": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "counterfeit_jerseys": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "counterfeit_watch": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "courtneymorgenstern": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "covernat": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cowboybebop": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #61 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "crayonshinchan": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "crocs_charms": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #185 存在：JSON契约损坏(如jason/ture/default形式/括号)。；同时参考图待补（纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cucu": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图。 优化建议：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "cwt_legging": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #377 存在：正文残留未清理商品标题硬编码。；同时参考图待补（纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "daddario": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #64 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dandys_world": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dav_pilkey_dogman": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（Captain Underpants 标志已验真，建议补充《Dog Man》封面角色图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dc_comics": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dc_shoes": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "demon_slayer": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "deutsches_rotes_kreuz": {
+      "status": "quarantined",
+      "note": "【Q2 跨实体错贴隔离】disposition=quarantine_paste_bug（标题与正文权利实体矛盾，须人工修复模板后才能使用）；Pro 阶段应定性为 fix_template_prompt_bug（不更新模型权重），人工修订后再启用。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dior": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #69 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "disney": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dodge": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #191 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dominos": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "doubleendedhandtool": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图。 优化建议：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dragonball": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dsquared2": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #6 存在：存在未填充空占位符、关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "duke_university": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #380 存在：错别字或逻辑矛盾。 另建议补充：存在主观逃生舱兜底描述。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "dune": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #71 存在：判据过于笼统。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ecco": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "elvis": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "et": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "evelknievel": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（已剔除博物馆标并替换为 Evel Knievel 本人档案照，建议再补星条战服徽记）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "fallout": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "fender": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ferrari": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "florida": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ford": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "forza": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "friends": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "gant": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "gap": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "general_ip_model_nxy": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #293 存在：判据过于笼统。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "general_rihe": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A1_open_set_cross_domain_ip，按路线 A1_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "genies_perfume_atomizer": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "glassangelofficial": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #294 存在：JSON契约损坏(如jason/ture/default形式/括号)、关联实体rel子串误绑。；同时参考图待补（错配清除：命中普通圣诞玻璃天使挂件，非品牌官方参考图）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "godzilla": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "goodyear": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "goorinbros": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "gopro_logoauto": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "gorillaglue": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "greenday": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "guess": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "guinness": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "gulf": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "gunsnroses": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "haribotitle": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "harrypotter": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #10 存在：错别字或逻辑矛盾。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "hatsune_miku": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #84 存在：JSON契约损坏(如jason/ture/default形式/括号)、唯画风触发易误杀原创。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "hells_angles_motorcycle": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #85 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "hemier_league": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #299 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "hendrickmotorsports": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #88 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "hermes": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "higuchi_yuko": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #318 存在：错别字或逻辑矛盾。；同时参考图待补（Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "hilton": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #94 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "hollister": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "honda": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #202 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "hotstuff": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "household": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "infringement_detection": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #96 存在：关联实体rel子串误绑。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "infringementcards": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #389 存在：JSON契约损坏(如jason/ture/default形式/括号)、关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "itmovie": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #427 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "jeep": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #390 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "jenny_urquhart": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充。 优化建议：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "jiaxiangye": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #97 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。；同时参考图待补（纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "jim_beam": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "juicewrld": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #19 存在：错别字或逻辑矛盾。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "jujutsukaisen": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #98 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "juliusk9": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #259 存在：JSON契约损坏(如jason/ture/default形式/括号)、判据过于笼统。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "junjiito": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（作者伊藤润二肖像已验真，建议补充《富江》《漩涡》代表画作切片）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "kaffe": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "kimesranch": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #204 存在：JSON契约损坏(如jason/ture/default形式/括号)。；同时参考图待补（Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "kirby": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #428 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "kith": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #260 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "kpop": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ktm": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "lacoste": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ledzeppelin": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #100 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "legorelated": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #391 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "libertyuniversity": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "lindseyferrell": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "lionel_messi": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "loewe": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "logo_similar_judge": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A1_open_set_cross_domain_ip，按路线 A1_broad_curriculum 接入 CPT-SFT。 规则强化提示：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "louisvuitton": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "lupinthethird": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "maison_margiela": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "mandms": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "maradona": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #306 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "marcon": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "marilyn_monroe": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "marshall": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "marvel": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "maryland": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "mastermind": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #262 存在：JSON契约损坏(如jason/ture/default形式/括号)。；同时参考图待补（Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "mcdonald": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "mcm": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "mega": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "megaman": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #20 存在：关联实体rel子串误绑。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "meitanteikonan": {
+      "status": "needs_asset",
+      "note": "【错配已清除·待补图】模板正文健康；错配清除：二次替换命中 ABS-CBN 电视台标，非《名侦探柯南》作品图标。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "men_of_mayhem": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "mercedes_benz": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "merchtraffic": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #264 存在：判据过于笼统。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "metallica": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #213 存在：关联实体rel子串误绑。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "michael_jackson": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "michigan_state": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "miffyrabbit": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "milwaukeetool": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #321 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "minions": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #119 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "mitsubishipencil": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "miumiu": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "molson_coors": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #400 存在：错别字或逻辑矛盾。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "monchhichi": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "money_heist_la_casa_de_papel": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #416 存在：错别字或逻辑矛盾。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "monopoly": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #333 存在：判据过于笼统。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "monsterenergy": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #434 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "monsterhigh": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #120 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "moschino": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "mr_men_little_miss": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #430 存在：存在未填充空占位符、关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "muhammad_ali": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "my_dress": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #323 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "my_hero_academia": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #215 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "naruto": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "nba": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #122 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "nebraska": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "new_holland": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "newbalance": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "neymar": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #308 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "nhl": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #265 存在：关联实体rel子串误绑。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "nike": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "nike_jordan": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（已剔除约旦空军徽标并替换为 Air Jordan Jumpman 官方矢量标）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "nin1_game_console": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ninewest": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "nirvana": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #406 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "novak_djokovic": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #266 存在：关联实体rel子串误绑。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "oakley": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ohayou_spank": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ohio": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "oklahoma_university": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #421 存在：错别字或逻辑矛盾。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "olympic": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #127 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "one_direction": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "one_piece": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "oregon": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "oster": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #128 存在：JSON契约损坏(如jason/ture/default形式/括号)。；同时参考图待补（错配清除：二次替换命中奥地利能源协会标，非厨具品牌 Oster）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "pandorobo": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #325 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。；同时参考图待补（Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "panini_0325quanliang": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "parkerbabyco": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #218 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。；同时参考图待补（纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "patagonia": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "paw_patrol": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #130 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "peanuts": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #131 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "pepsi": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "pickulsgizmo": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "pikmin": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #411 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "pinkpanther": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "pitbull": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #326 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "plexaderm": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #137 存在：关联实体rel子串误绑。；同时参考图待补（Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "pokemon": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "postyaustin": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #220 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "prada": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "purina": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "purple_innovation": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #136 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。；同时参考图待补（错配清除：命中 Chestertons 房产机构紫色标，非网格凝胶枕专利）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "purplebrand": {
+      "status": "needs_asset",
+      "note": "【错配已清除·待补图】模板正文健康；错配清除：命中 Upstage 标而非服装品牌 PURPLE BRAND。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "rabanne_bag": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；已有 Paco Rabanne 字标，但模板核心审金属圆片链甲包体装潢，仍缺包型结构实拍图。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ralph_lauren": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #328 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ratt": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #138 存在：错别字或逻辑矛盾。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "rbfa": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "rezero": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：存在主观逃生舱兜底描述。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "rfef": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "rickandmorty": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "rilakkuma": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #310 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "risk_evaluation": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #443 存在：角色/指令头重复、关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "riskdata_iplogo_brand_gemini": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #444 存在：关联实体rel子串误绑。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "rockybalboa": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "rundmc": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "rusty": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #222 存在：JSON契约损坏(如jason/ture/default形式/括号)、关联实体rel子串误绑。；同时参考图待补（Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "samsung_phonecase": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "sandmaennchen": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "scoobydoo": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "scott": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "sesame_street": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "sevendeadlysins": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "sharks_rugby": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（南非 Sharks 职业橄榄球队盾徽 SRC 已核实匹配）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "shein_mark": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "shell": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "shimano": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "shingbright": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #447 存在：JSON契约损坏(如jason/ture/default形式/括号)、判据过于笼统。；同时参考图待补（纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "slamdunk": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #144 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "slayer": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #414 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "southcarolina": {
+      "status": "quarantined",
+      "note": "【Q2 跨实体错贴隔离】disposition=quarantine_paste_bug（标题与正文权利实体矛盾，须人工修复模板后才能使用）；Pro 阶段应定性为 fix_template_prompt_bug（不更新模型权重），人工修订后再启用。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "spainish_celebrity": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "spirit": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #145 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "spongebobsquarepants": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #146 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "sport_star": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。 规则强化提示：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "sports_ball_general": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A2_vertical_open_set_or_multi_entity，按路线 A2_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "spotit": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #448 存在：JSON契约损坏(如jason/ture/default形式/括号)、判据过于笼统。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "squishmallows": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "starbucks": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #227 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "startrek": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "stealabrainrot": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #147 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "stoneisland": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "strawberryshortcake": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "streetfighter": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "sunlight": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（Sunlight 经典洗护包装实拍已验真，建议补充现代版瓶身与字标）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "super_mario": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "supreme": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "suzuki": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "swarovski": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（Swarovski 字标已验真，建议补充经典天鹅（iconic swan）图形标）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "tangle": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "taylorswift": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #450 存在：关联实体rel子串误绑。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "tesla": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "test_111": {
+      "status": "quarantined",
+      "note": "【Q1 测试废案隔离】标题或正文属于测试占位文本，禁止进入 CPT/SFT 权重或线上规则。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "test_5678": {
+      "status": "quarantined",
+      "note": "【Q1 测试废案隔离】标题或正文属于测试占位文本，禁止进入 CPT/SFT 权重或线上规则。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "test_general_ip": {
+      "status": "quarantined",
+      "note": "【Q1 测试废案隔离】标题或正文属于测试占位文本，禁止进入 CPT/SFT 权重或线上规则。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "test_lingjinglan": {
+      "status": "quarantined",
+      "note": "【Q1 测试废案隔离】标题或正文属于测试占位文本，禁止进入 CPT/SFT 权重或线上规则。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "test_nyetest": {
+      "status": "quarantined",
+      "note": "【Q1 测试废案隔离】标题或正文属于测试占位文本，禁止进入 CPT/SFT 权重或线上规则。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "thebadguys": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #151 存在：存在未填充空占位符。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "thenewyorker": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #152 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "thesecretlifeofpets": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "thesimpsonver2": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #153 存在：JSON契约损坏(如jason/ture/default形式/括号)、唯画风触发易误杀原创。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "thomasandfriends": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #419 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "tiffanyco_tiffany": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "tintin": {
+      "status": "quarantined",
+      "note": "【Q2 跨实体错贴隔离】disposition=quarantine_paste_bug（标题与正文权利实体矛盾，须人工修复模板后才能使用）；Pro 阶段应定性为 fix_template_prompt_bug（不更新模型权重），人工修订后再启用。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "tokyoghoul": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "tomandjerry": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #157 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "tommy_hilfiger": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #156 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "totto": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #454 存在：关联实体rel子串误绑。；同时参考图待补（错配清除：命中日剧《小豆豆》标题标，非箱包品牌 TOTTO）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "toyota": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #232 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "transportforlondon": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "triumph": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（已核准 Triumph Motorcycles 字标并剔除 Triumph International 内衣错配标）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "tro_anly": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A1_open_set_cross_domain_ip，按路线 A1_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "trolls": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #161 存在：JSON契约损坏(如jason/ture/default形式/括号)、唯画风触发易误杀原创。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "tumi": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "twentyonepilots": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #162 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "twizler": {
+      "status": "approved",
+      "note": "【广域审结通过】归属 A3_pairwise_visual_mechanism，按路线 A3_broad_curriculum 接入 CPT-SFT。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ucl_wenzi": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "uga": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "ugg": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（UGG 字标已验真，建议补充经典雪地靴专利外观图）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "underdog": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "university_of_michigan": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "university_of_utah": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "universityofkentucky": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #273 存在：JSON契约损坏(如jason/ture/default形式/括号)。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "usmc": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "van_cleef_arpels": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #237 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "velcro": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（已从魔术贴织物微距替换为 Velcro Brand 官方矢量标）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "vetements": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：存在主观逃生舱兜底描述。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "vision_street_wear": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "vivienne_westwood": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #168 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "vogue": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "volkswagen": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "warhammer": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #15 存在：关联实体rel子串误绑。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "whirlpool": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "whitefox": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #332 存在：JSON契约损坏(如jason/ture/default形式/括号)。；同时参考图待补（Wiki/Commons 与 Assert 均未命中可用官方标准图，需定向从品牌官网或作品官图人工补充）",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "wickedtrademark": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #169 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "wilson": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "windows": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "wku": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "wondermachines": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "wwe_wrestle": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "yamal": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #425 存在：错别字或逻辑矛盾。 另建议补充：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "yanding": {
+      "status": "needs_asset",
+      "note": "【缺标准参考图】模板正文健康；纯工业外观/结构专利模板，无 Wiki 官方标，需业务补充多角度产品实拍与非侵权近似对比图。 优化建议：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "yeti": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "zelda": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（官方标题徽标或作品封面已目视验真；若后续用于二创细分评测，建议增补核心角色设定三视图）。 非阻塞优化：缺宿主隔离或反向排除条款。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "zigzag": {
+      "status": "needs_fix",
+      "note": "【需修模板】主版 #242 存在：JSON契约损坏(如jason/ture/default形式/括号)。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "zipit": {
+      "status": "needs_asset",
+      "note": "【错配已清除·待补图】模板正文健康；错配清除：命中早期 Linux 掌机 Zipit，非单拉链包 Zipit 专利结构。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    },
+    "zippo": {
+      "status": "approved",
+      "note": "【审结通过】模板规则与视觉参考图均核验合格（经棋盘格接触表目视核验，与模板审核对象身份一致，可作候选/参考图使用）。",
+      "updated_at": "2026-11-26T11:30:00+08:00"
+    }
+  }
+}

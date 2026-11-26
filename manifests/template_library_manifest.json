@@ -1,0 +1,68 @@
+{
+  "schema": "assert_template_library_manifest_v2",
+  "generated_at": "2026-11-25T07:47:01.397226+00:00",
+  "raw_input_path": "manifests/audit_prompts_461_full_raw.jsonl",
+  "raw_input_sha256": "bc1ed30e3b7e3cf85d868cfd3b3c1e957fa4037c7e20e328eaca18d15a4ec25e",
+  "cleaned_output_path": "manifests/audit_prompts_461_full_cleaned.jsonl",
+  "cleanup_report_path": "manifests/export_cleanup_report.json",
+  "output_dir": "templete",
+  "total_raw_records": 461,
+  "total_unpacked_versions": 533,
+  "total_family_members": 533,
+  "total_families": 352,
+  "multi_member_families": 103,
+  "records_with_export_cleanups": 212,
+  "total_export_cleanups": 327,
+  "export_cleanup_rule_counts": {
+    "labeled_inline_sku": 147,
+    "rule_header_injected_sku": 75,
+    "repeated_sku_title": 58,
+    "property_array_chain": 10,
+    "parenthesized_goods_title": 7,
+    "empty_comma_residue": 6,
+    "spec_json_array": 5,
+    "standalone_injected_sku": 4,
+    "trailing_sentence_sku": 4,
+    "known_goods_and_brand_list": 3,
+    "task_provided_sku": 3,
+    "known_goods_quoted": 2,
+    "bracketed_goods_title_arr": 1,
+    "mid_clause_provided_text": 1,
+    "role_prefix_sku_leak": 1
+  },
+  "missing_ids": [],
+  "duplicate_ids": [],
+  "disposition_counts": {
+    "active_ip": 499,
+    "needs_body_completion": 1,
+    "quarantine_paste_bug": 8,
+    "quarantine_test_junk": 10,
+    "route_auxiliary_non_ip": 15
+  },
+  "hygiene_flag_counts": {
+    "broken_json_schema": 132,
+    "cross_entity_paste_bug": 8,
+    "duplicate_role_header": 2,
+    "empty_or_trivial_body": 1,
+    "empty_placeholder_variable": 4,
+    "missing_exclusion_clause": 116,
+    "rel_metadata_mismatch": 66,
+    "style_only_trigger_risk": 5,
+    "typo_or_logic_defect": 20,
+    "underspecified_rubric": 17,
+    "weak_anchor_or_escape_hatch": 4
+  },
+  "inter_class_risk_counts": {
+    "blocked_hygiene": 5,
+    "high": 171,
+    "low": 84,
+    "medium": 92
+  },
+  "assert_coverage_counts": {
+    "approved_in_assert": 26,
+    "backlog_needs_review": 213,
+    "no_assert_match": 51,
+    "not_applicable_non_ip_or_test": 16,
+    "supplement_asset_available_pending_approval": 46
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "entity_count": 4668,
+  "asset_count": 1347,
+  "new_download_count": 1027,
+  "new_download_bytes": 132871234,
+  "status_counts": {
+    "needs_identity_review": 3560,
+    "identity_verified_pending_visual_review": 1058,
+    "variant_review_required": 7,
+    "rejected_mismatch": 4,
+    "approved_reference": 37,
+    "ambiguous": 2
+  },
+  "reuse_review_counts": {
+    "variant_review_required": 7,
+    "rejected_mismatch": 4,
+    "approved_reference": 37
+  },
+  "approved_reference_rows": 37,
+  "pokemon_download_failures": 0,
+  "validation": "全部登记图片哈希与完整解码通过；全部实体 ID 唯一，图片引用存在。",
+  "scope_note": "原资源和原训练 JSONL 未修改。新立绘只完成元数据身份与文件校验；抽样预览不代表全部视觉验收。",
+  "visual_sampling": {
+    "preview": "contact_sheets/standard_images_1119/pokemon_sample.jpg",
+    "sample_count": 32,
+    "result": "已查看抽样拼图，未见明显空图或内容错位；不代表全量视觉验收。"
+  }
+}

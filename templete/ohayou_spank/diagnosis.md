@@ -1,0 +1,36 @@
+# 审核模板诊断报告：IP-ohayou spank (`ohayou_spank`)
+
+## 1. 同族与版本选择概览
+
+- **同族成员数**: 1 个独立版本（来源记录 ID: 22）
+- **默认采用版本**: `id=22` (`IP-ohayou spank`)
+- **版本判定置信度**: `single`
+- **版本选择理由**: 状态健康（非错贴/非空壳）；非 test/ceshi/copy 测试分支；清洗后正文长度 chars=162
+- **导出商品硬编码清理**: 共自动将 0 处导出时注入的商品标题/属性还原为 `#GOODS_TEXT_INFO#` 等占位符（不计入模板缺陷）
+- **并行子场景标记**: 否（同族主要为同一任务的迭代版本或别名）
+
+## 2. 逐版本完整诊断明细
+
+| 版本键 | 模板标题 | 选中 | 清洗后字数 | 导出清理 | 处置结论 | 审核原型 | 模板自身缺陷与风险 |
+|---|---|---:|---:|---:|---|---|---|
+| `22` | `IP-ohayou spank` | ✅ | 162 | 0 处 | `active_ip` | `anime_derivative_two_step, boolean_rule_reverse_elim` | 缺少反向排除/豁免条款：全文未明确背景宿主隔离、通用属性排除或证据不足判 false 的边界。 |
+
+## 3. 判断方案与类间区分风险评估
+
+- **主要审核原型**: `anime_derivative_two_step`, `boolean_rule_reverse_elim`
+- **是否显式涉及二创/同人/借鉴**: 否
+- **类间混淆风险等级**: `high`
+- **模板自身缺陷标签**: `missing_exclusion_clause`
+
+### 规则与数据构造建议
+
+- 【二创类间防混淆】将特征拆分为 T1 独占强锚点（专属徽记/标志性发饰/瞳纹/武器）+ T2 结构骨架（刘海分流/非对称配色）+ T3 泛化属性（发色/瞳色/校服/画风）；造数时配套构造「锁 T1/T2 换装或 Q 版正例」与「锁画风/锁 T3 属性词但无 T1 的近邻角色/原创 OC 负例」，严禁仅凭画风或发色判侵权。
+- 【补充反向排除条款】建议显式补齐「仅命中发色/服装等通用 T3 特征」「背景/宿主道具出现」「局部裁切或遮挡导致证据不足」均应判定为 false。
+
+## 4. Assert 标准图库资产对齐状态
+
+- **覆盖状态**: `supplement_asset_available_pending_approval`
+- **补充参考图（待正式批准入标）**:
+  - `ip_ohayou_spank` (早上好！斯潘克（Ohayou! Spank） / Ohayou! Spank) · fetch_ok=`True` · `assets/sch96_ip_supplement/anime_games_entertainment/ip_ohayou_spank.png`
+- **1119 待办清单命中 (1 条展示)**:
+  - `kb_05793_IP_ohayou_spank` · `IP-ohayou spank` · status=`needs_identity_review`

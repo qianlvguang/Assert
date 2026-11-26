@@ -1,0 +1,26 @@
+{
+  "schema": "assert_template_wiki_enrichment_summary_v1",
+  "generated_at": "2026-11-26T03:33:38.595758+00:00",
+  "total_entity_specific_families": 307,
+  "families_with_local_reference_image": 278,
+  "visual_candidate_coverage_rate": 0.9055,
+  "strict_approved_rate": 0.0847,
+  "status_counts": {
+    "wiki_fetched_pending_visual_review": 198,
+    "existing_assert_supplement_pending_approval": 42,
+    "already_approved_in_assert": 26,
+    "wiki_source_missing": 16,
+    "manual_patent_photo_required": 13,
+    "local_assert_rescued_pending_review": 12
+  },
+  "contact_sheets": [
+    "output/template_wiki_enrichment/contact_sheets/wiki_enrich_batch_01.jpg",
+    "output/template_wiki_enrichment/contact_sheets/wiki_enrich_batch_02.jpg",
+    "output/template_wiki_enrichment/contact_sheets/wiki_enrich_batch_03.jpg",
+    "output/template_wiki_enrichment/contact_sheets/wiki_enrich_batch_04.jpg",
+    "output/template_wiki_enrichment/contact_sheets/wiki_enrich_batch_05.jpg",
+    "output/template_wiki_enrichment/contact_sheets/wiki_enrich_batch_06.jpg",
+    "output/template_wiki_enrichment/contact_sheets/wiki_enrich_batch_07.jpg",
+    "output/template_wiki_enrichment/contact_sheets/wiki_enrich_batch_08.jpg"
+  ]
+}

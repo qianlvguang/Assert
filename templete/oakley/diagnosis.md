@@ -1,0 +1,43 @@
+# 审核模板诊断报告：欧克利 (Oakley) (`oakley`)
+
+## 1. 同族与版本选择概览
+
+- **同族成员数**: 3 个独立版本（来源记录 ID: 126, 438, 452）
+- **默认采用版本**: `id=126` (`IP_OAKLEY_Ologo`)
+- **版本判定置信度**: `high`
+- **版本选择理由**: 状态健康（非错贴/非空壳）；非 test/ceshi/copy 测试分支；清洗后正文长度 chars=293
+- **导出商品硬编码清理**: 共自动将 0 处导出时注入的商品标题/属性还原为 `#GOODS_TEXT_INFO#` 等占位符（不计入模板缺陷）
+- **并行子场景标记**: 否（同族主要为同一任务的迭代版本或别名）
+
+## 2. 逐版本完整诊断明细
+
+| 版本键 | 模板标题 | 选中 | 清洗后字数 | 导出清理 | 处置结论 | 审核原型 | 模板自身缺陷与风险 |
+|---|---|---:|---:|---:|---|---|---|
+| `126` | `IP_OAKLEY_Ologo` | ✅ | 293 | 0 处 | `active_ip` | `boolean_rule_reverse_elim` | 无明显模板缺陷 |
+| `438` | `oakley` |  | 79 | 0 处 | `active_ip` | `brand_logo_trademark` | JSON 输出契约存在语法或拼写错误（如 `jason`、`ture`/`treue`、`default形式`、圆括号/中文冒号等）。；判据过于笼统（清洗后 79 字）：仅一句宽泛提问，缺少专属强锚点、排除词与宿主边界定义。 |
+| `452` | `test_llm` |  | 271 | 0 处 | `active_ip` | `boolean_rule_reverse_elim` | 无明显模板缺陷 |
+
+## 3. 判断方案与类间区分风险评估
+
+- **主要审核原型**: `boolean_rule_reverse_elim`, `brand_logo_trademark`
+- **是否显式涉及二创/同人/借鉴**: 否
+- **类间混淆风险等级**: `high`
+- **模板自身缺陷标签**: `broken_json_schema`, `underspecified_rubric`
+
+### 规则与数据构造建议
+
+- 【规则补全】当前主模板仅一句宽泛提问，类间边界完全未定义；建议先补充正例必需锚点清单与常见误召回排除条款，再进入训练或线上评测。
+
+## 4. Assert 标准图库资产对齐状态
+
+- **覆盖状态**: `backlog_needs_review`
+- **1119 待办清单命中 (3 条展示)**:
+  - `kb_00005_欧克利_Oakley_` · `欧克利（Oakley）` · status=`needs_identity_review`
+  - `kb_05010_oakley` · `oakley` · status=`needs_identity_review`
+  - `kb_08663_test_llm` · `test_llm` · status=`needs_identity_review`
+
+## 5. 同族版本文件索引
+
+- [`versions/126_IP_OAKLEY_Ologo.md`](versions/126_IP_OAKLEY_Ologo.md) — `126`, `chars=293` （默认采用）
+- [`versions/438_oakley.md`](versions/438_oakley.md) — `438`, `chars=79` 
+- [`versions/452_test_llm.md`](versions/452_test_llm.md) — `452`, `chars=271` 

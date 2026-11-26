@@ -1,0 +1,24 @@
+{
+  "schema": "standard_image_backlog_v1",
+  "input_name": "need_standard_images_1119.md",
+  "input_sha256": "d1f667430720cb6dd23e04ee3f2c6d9734c0aadda5b538501b8ffe44fe677a13",
+  "entity_count": 4668,
+  "existing_asset_count": 320,
+  "counts_by_route": {
+    "concept_visual_review": 1291,
+    "character_identity_review": 1087,
+    "pokemon_artwork": 1025,
+    "entity_identity_review": 553,
+    "template_scope_review": 237,
+    "document_scope_review": 56,
+    "reference_photo_set": 343,
+    "person_or_work_review": 41,
+    "pokemon_identity_review": 35
+  },
+  "counts_by_status": {
+    "needs_identity_review": 4620,
+    "reuse_candidate": 48
+  },
+  "approved_entity_count": 0,
+  "scope_note": "仅解析仍需图片章节；未验证附录排除的 4024 项，也未检查 Datawheel 其他图片。路由和名称匹配均为待审候选。"
+}

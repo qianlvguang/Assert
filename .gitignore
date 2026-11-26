@@ -1,3 +1,30 @@
 .DS_Store
 **/.DS_Store
 *.tar.gz
+__pycache__/
+*.pyc
+.cache/
+.venv/
+.legacy/
+assets/standard_images/pokemon_artwork/
+contact_sheets/standard_images_1119/
+* 2.*
+* 3.*
+* 4.*
+manifests/audit_prompts_461_full_raw.jsonl
+manifests/audit_prompts_461_full_cleaned.jsonl
+manifests/audit_templates_461_raw.jsonl
+manifests/export_cleanup_report.json
+templete/review_dashboard.html
+templete/*/latest_template*.md
+templete/*/raw_records*.jsonl
+templete/*/cleaned_records*.jsonl
+templete/*/family*.json
+templete/*/versions/
+output/*
+!output/template_wiki_enrichment/
+output/template_wiki_enrichment/*
+!output/template_wiki_enrichment/contact_sheets/
+!output/character_wiki_portraits/
+output/character_wiki_portraits/*
+!output/character_wiki_portraits/contact_sheets/

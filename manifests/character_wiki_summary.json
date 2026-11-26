@@ -1,0 +1,29 @@
+{
+  "schema": "assert_character_wiki_summary_v1",
+  "generated_at": "2026-11-26T07:17:48.937216+00:00",
+  "total_b2_families": 87,
+  "families_covered": 86,
+  "coverage_rate": 0.9885,
+  "total_character_dossiers": 632,
+  "dossiers_with_appearance_section": 340,
+  "dossiers_with_visual_infobox": 198,
+  "source_counts": {
+    "fandom": 375,
+    "moegirl": 111,
+    "enwiki": 85,
+    "zhwiki": 61
+  },
+  "uncovered_slugs": [
+    "badcutebunny"
+  ],
+  "fandom_errors": {
+    "annabelle": "conjuring.fandom.com: HTTPError: HTTP Error 404: Not Found",
+    "cobra": "cobra.fandom.com: HTTPError: HTTP Error 404: Not Found",
+    "dav_pilkey_dogman": "dogman.fandom.com: HTTPError: HTTP Error 404: Not Found",
+    "hotstuff": "hotstuff.fandom.com: HTTPError: HTTP Error 404: Not Found",
+    "rilakkuma": "san-x.fandom.com: HTTPError: HTTP Error 404: Not Found",
+    "stealabrainrot": "brainrot.fandom.com: HTTPError: HTTP Error 404: Not Found",
+    "thesecretlifeofpets": "secretlifeofpets.fandom.com: HTTPError: HTTP Error 404: Not Found",
+    "dragonball": "dragonball.fandom.com: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>"
+  }
+}
